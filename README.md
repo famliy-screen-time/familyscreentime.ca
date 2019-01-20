@@ -5,6 +5,9 @@ Landing page for [familyscreentime.ca](https://familyscreentime.ca).
 ## Usage
 
 ```bash
+# Install dependencies
+npm install
+
 # Build
 npm run build
 

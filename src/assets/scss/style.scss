@@ -1,3 +1,15 @@
+// Font face
+@font-face {
+  font-family: "Calluna";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/static/fonts/942319/bbb8bf0c-7cf7-43e6-ba9b-468044f3f6dc.eot?#iefix");
+  src: url("/static/fonts/942319/bbb8bf0c-7cf7-43e6-ba9b-468044f3f6dc.eot?#iefix") format("eot"),
+    url("/static/fonts/942319/62ad54ed-a020-4fc1-a3dc-21e31bf8d52a.woff2") format("woff2"),
+    url("/static/fonts/942319/c1b12dfe-db8e-49f0-94ac-7ad0bf217f90.woff") format("woff"),
+    url("/static/fonts/942319/ec589ae8-c434-4ce6-a7e7-d7a4a77535d0.ttf") format("truetype");
+}
+
 // Core variables and mixins
 @import "variables.scss";
 @import "~bootstrap/scss/bootstrap";
