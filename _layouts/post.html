@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  {% include header.html %}
+  <div class="layout layout-one-column">
+    <main class="main">
+      <article class="article">
+        <header class="article-header w-auto">
+          <div class="article-title">
+            <h1>{{page.title}}</h1>
+            <div class="article-date">{{page.date | date_to_string}}</div>
+          </div>
+
+          {% if page.featured_image %}
+          <figure class="featured-image">
+            <img src="{{page.featured_image}}">
+          </figure>
+          {% endif %}
+        </header>
+
+        {{content}}
+      </article>
+    </main>
+  </div>
+  {% include footer.html %}
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  {% include header.html %}
+  <div class="layout layout-one-column">
+    <main class="main">
+      <article class="article">
+        <header class="article-header w-auto">
+          <h1 class="article-title">
+            Do Families Need to Power Down to Connect?
+          </h1>
+
+          <figure class="featured-image">
+            <img src="/assets/images/laptop.svg">
+          </figure>
+        </header>
+
+        {{content}}
+
+        <!-- Partner organizations -->
+        <h2>Partner organizations</h2>
+        <div class="partners w-auto">
+          <div class="partner">
+            <a
+              class="partner-link"
+              href="http://projectliteracy.ca/"
+              target="_blank"
+            >
+              <img src="/assets/images/project-literacy-logo-new.png">
+            </a>
+          </div>
+          <div class="partner">
+            <a
+              class="partner-link"
+              href="https://childhoodconnections.ca/"
+              target="_blank"
+            >
+              <img src="/assets/images/childhood-connections-whitebg.png">
+            </a>
+          </div>
+          <div class="partner">
+            <div class="partner-link">
+              <img src="/assets/images/coeyp-logo-edited.png">
+            </div>
+          </div>
+        </div>
+      </article>
+    </main>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>

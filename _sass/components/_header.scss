@@ -1,0 +1,31 @@
+.site-header {
+  border-width: 0.5rem 0 0px 0;
+  border-style: solid;
+  border-color: $main-color;
+
+  .nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    @media (min-width: $breakpoint-md) {
+      flex-wrap: nowrap;
+    }
+
+    .nav-item {
+      width: 100%;
+      display: block;
+      @media (min-width: $breakpoint-md) {
+        width: auto;
+      }
+    }
+
+    .nav-link {
+      display: block;
+      padding: 0.25rem 0.75rem;
+      border-radius: 6px;
+      &.active {
+        background-color: $main-color;
+        color: #fff;
+      }
+    }
+  }
+}

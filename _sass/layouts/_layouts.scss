@@ -1,0 +1,31 @@
+.layout {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  max-width: 100%;
+  background-color: #fff;
+
+  &-one-column {
+    margin: 0 auto;
+    flex-wrap: wrap;
+    & > * {
+      padding: 1rem;
+      flex: 0 0 100%;
+      max-width: 100%;
+      @media screen and (min-width: $breakpoint-sm) {
+        padding-right: 3rem;
+        padding-left: 3rem;
+      }
+      @media screen and (min-width: $breakpoint-md) {
+        padding-right: 2rem;
+        padding-left: 2rem;
+      }
+    }
+  }
+
+  &-two-column {
+    @media screen and (min-width: $breakpoint-md) {
+      flex-wrap: nowrap;
+    }
+  }
+}

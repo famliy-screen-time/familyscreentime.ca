@@ -1,16 +1,9 @@
 # Family Screen Time
 
-Landing page for [familyscreentime.ca](https://familyscreentime.ca).
+Website and blog for [familyscreentime.ca](https://familyscreentime.ca).
 
 ## Usage
 
 ```bash
-# Install dependencies
-npm install
-
-# Build
-npm run build
-
-# Build and watch for changes
-npm run watch
+bundle exec jekyll serve
 ```

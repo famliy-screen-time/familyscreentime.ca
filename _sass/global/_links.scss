@@ -1,0 +1,7 @@
+a {
+  color: $main-color;
+  text-decoration: none;
+  &:hover {
+    color: $text-color-light;
+  }
+}

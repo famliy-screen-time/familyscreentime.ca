@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i&display=swap');
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/source-serif-pro/WOFF2/TTF/SourceSerifPro-Regular.ttf.woff2') format('woff2'),
+    url('/assets/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Regular.otf.woff') format('woff'),
+    url('/assets/fonts/source-serif-pro/OTF/SourceSerifPro-Regular.otf') format('opentype'),
+    url('/assets/fonts/source-serif-pro/TTF/SourceSerifPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  src: url('/assets/fonts/source-serif-pro/WOFF2/TTF/SourceSerifPro-It.ttf.woff2') format('woff2'),
+    url('/assets/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-It.otf.woff') format('woff'),
+    url('/assets/fonts/source-serif-pro/OTF/SourceSerifPro-It.otf') format('opentype'),
+    url('/assets/fonts/source-serif-pro/TTF/SourceSerifPro-It.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/source-serif-pro/WOFF2/TTF/SourceSerifPro-Bold.ttf.woff2') format('woff2'),
+    url('/assets/fonts/source-serif-pro/WOFF/OTF/SourceSerifPro-Bold.otf.woff') format('woff'),
+    url('/assets/fonts/source-serif-pro/OTF/SourceSerifPro-Bold.otf') format('opentype'),
+    url('/assets/fonts/source-serif-pro/TTF/SourceSerifPro-Bold.ttf') format('truetype');
+}
+
+
+@import "variables";
+
+@import "base/base";
+@import "global/global";
+@import "layouts/layouts";
+@import "components/components";

@@ -1,0 +1,55 @@
+// Colours
+// $main-color: #058ed9;
+$main-color: #ee0979;
+// $secondary-color: #e68ef8;
+$secondary-color: #113879;
+$tertiary-color: #8ef8d0;
+$text-color: #483f3e;
+// $text-color: #4f3015;
+// $text-color-light: #865b36;
+$text-color-light: #666;
+// $text-color-lighter: #b3a3a2;
+$text-color-lighter: #aaa;
+$background-gradient: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Borders
+$border-width: 2px;
+$border-style: solid;
+$border-color: $text-color;
+$border: $border-width $border-style $border-color;
+
+// Content width
+$content-width-sm: 500px;
+$content-width-md: 950px;
+@mixin content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
+  padding: 1rem 2rem;
+  @media screen and (min-width: $breakpoint-sm) {
+    width: $content-width-sm;
+  }
+  @media screen and (min-width: $breakpoint-md) {
+    width: $content-width-md;
+  }
+}
+
+@mixin box($padding: 0.375rem, $shadow-size: 0.375rem) {
+  border: $border;
+  box-shadow: $shadow-size $shadow-size $text-color;
+  background-image: $background-gradient;
+  padding: $padding;
+}
+
+// Fonts
+$system-fonts: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$body-font: "Source Serif Pro", "Charter", $system-fonts;
+$headings-font-family: "Source Sans Pro", $body-font;
+$headings-font-weight: 300;
+$headings-font-color: $secondary-color;
