@@ -53,5 +53,16 @@
   </div>
 
   {% include footer.html %}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', function (user) {
+      if (user) return;
+      window.netlifyIdentity.on('login', function () {
+        window.location.href = '/admin';
+      });
+    });
+  }
+  </script>
 </body>
 </html>
