@@ -17,11 +17,11 @@ These are some serious claims, and while they come from a reliable medical journ
 
 * This study only included 47 children, which is a tiny percentage of the [23 million](https://www.childstats.gov/americaschildren/tables/pop1.asp) children aged 5 and under in the United States. So, this study made claims about their population of interest based on information from only 0.0002% of it! Studies that use very small sample sizes should be taken with a grain of salt because their results might not generalize to the outside world.
 
-### Measuring screen time:
+### Measuring screen time
 
 * In order to measure the children's access to screens and type of content viewed, this study used a new measure that little information is known about aside from the fact that it is a questionnaire filled out by parents. This is potentially problematic in two ways:
 
   * Using questionnaires to get information about past events is not always accurate because people do not have perfect memories, and can accidentally provide incorrect answers.
   * These parents may not know exactly the time and nature of screens that their children access. A child's mother and father may have different rules about screen time, or a child can get hold of a device unsupervised.
 
-The **major takeaway** from this study is that if anything is impacting the brain development of preeschool–aged children, it is the lack of interaction that is often associated with screen time. However, as suggested by the researchers, many forms of screen time exist that are interactive rather than passive, and can be used together by parents and children. While it is extremely unlikely that screen time in general will stunt your child's brain, it is still important that screen time is spent in the most beneficial and interactive way possible!
+The **major takeaway** from this study is that if anything is impacting the brain development of preschool–aged children, it is the lack of interaction that is often associated with screen time. However, as suggested by the researchers, many forms of screen time exist that are interactive rather than passive, and can be used together by parents and children. While it is extremely unlikely that screen time in general will stunt your child's brain, it is still important that screen time is spent in the most beneficial and interactive way possible!
