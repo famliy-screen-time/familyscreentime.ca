@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
-  branch: preview
+  branch: master
 media_folder: assets/uploads
+publish_mode: editorial_workflow
 collections:
   - name: blog
     label: Blog
