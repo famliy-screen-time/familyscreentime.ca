@@ -1,46 +1,34 @@
 ---
 title: Family Screen Time
 layout: home
+heading: Promoting Healthy Family Screen Time
 ---
 
 ## What is this?
 
-UBC Okanagan researchers, in collaboration with Project Literacy, Childhood Connections, and the Central Okanagan Early Years Partnership have launched a new research study, “Do Families Need to Power Down to Connect? A Study of Technology, Relationships, and Wellbeing.”
+You have reached the Family Screen Time project website and blog. This website will provide updates on the status of the Family Screen Time project (described further below) and is a hub for trustworthy content related to screen time in families with young children. Blog posts will be published regularly in the coming months.
 
-The goal is to identify healthy and unhealthy patterns of technology use in families with young children.
+UBC Okanagan researchers, in collaboration with Project Literacy, Childhood Connections, and the Central Okanagan Early Years Partnership, have launched the family screen time project. This project has included:
 
-The survey is now closed to respondents. Thank you to all those who participated.
-
-We will be presenting some of the findings at two community events on November 27th. These are free and open to the public! If you would like to attend you can [register online](https://familyscreentime.eventbrite.ca).
+- Researching the impact of screen time in Okanagan families with young children
+- Sharing research findings at academic conferences and community events
+- Holding a focus group with local stakeholders
+- Creating the Family Screen Time website and blog
 
 ![Children watching television](/assets/images/children-watching-tv.jpg)
 
 ## Frequently Asked Questions
 
-### What was the purpose of this study?
+### What is the purpose of this project?
 
-The main goal was to develop a better understanding of the relationship between different types of technology use and parent, child, and family wellbeing. We hoped to identify patterns of both healthy and unhealthy technology use.
+The main goal is to develop a better understanding of the relationship between different types of technology use and parent, child, and family wellbeing. We hope to identify patterns of both healthy and unhealthy technology use.
 
-### What were the results?
+We are also trying to share the important information with the community, which we have accomplished through free public presentations and this website.
 
-We will be sharing some of our preliminary findings at two [community events](https://familyscreentime.eventbrite.ca) in Kelowna, on November 27th. The events are free and open to the public. We hope to see you there!
+### What were the results of the study?
 
-### Two events on the same day? What is the difference?
+We will share the findings widely after they have been reviewed and published.
 
-The two events will be presenting the same information at different times and locations (so choose to attend whichever event best fits your schedule!).
+### I have more questions!
 
-### Where and when are these events?
-
-The morning event will be from 9:30–11 at **Hollywood Road Education Services** 1040 Hollywood Rd. The evening event will be from 7–8:30 at **The Innovation Centre** 460 Doyle Ave.
-
-### What will be happening at these events?
-
-We will be sharing preliminary findings of the study, including primary concerns parents express about screen time, reasons for screen time, and potential problems associated with parent and child technology use. A clinical child psychologist will provide suggestions for helping children develop healthy relationships with technology, and an industry representative will discuss the role of the private sector in ensuring the safety of online environments. There will then be a question and answer period with expert panel, followed by a reception with light refreshments.
-
-### Do I have to register?
-
-Yes. But registration is free and you can easily register online using [EventBrite](https://familyscreentime.eventbrite.ca).
-
-### What do I do if I have more questions?
-
-If you have more questions email Zak Draper the study coordinator at [zakary.draper@ubc.ca](mailto:zakary.draper@ubc.ca). He will be happy to answer your questions!
+If you have more questions about the Family Screen Time project, email Zak Draper the project coordinator at [zakary.draper@ubc.ca](mailto:zakary.draper@ubc.ca). He will be happy to answer your questions!
