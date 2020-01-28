@@ -7,6 +7,8 @@ The Canadian Paediatric Society has provided thoughtful recommendedations for sc
 
 In addition, they provided ten questions for families with young children to consider. We think these are worthwhile for families to consider.
 
+## Ten Questions for Healthy Screen Time
+
 1. What kind of screens are in your home (e.g., TV, tablet, computer, smartphone)? Which does your child use?
 1. Is watching TV or programs/movies on other devices a shared family activity and a common way to relax? How often is a screen on in the background although no one is really watching?
 1. Does anyone in the family use screens during mealtimes?
