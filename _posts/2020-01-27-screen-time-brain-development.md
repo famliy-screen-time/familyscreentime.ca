@@ -3,9 +3,9 @@ layout: post
 title: Screen Time & Brain Development
 date: 2020-01-27T20:25:25.107Z
 ---
-![](/assets/uploads/index.jpg)
-
 In the past few months, popular media outlets such as [WebMD](https://www.webmd.com/children/news/20191105/too-much-screen-time-may-be-stunting-toddlers-brains#1) and [CNN](https://www.cnn.com/2019/11/04/health/screen-time-lower-brain-development-preschoolers-wellness/index.html) have released articles warning parents that "excessive" use of screens (over 1 hour per day) can lead to slower brain development in preschool-aged children. 
+
+![Is screen time harming brain development?](/assets/uploads/index.jpg "Child on Phone")
 
 <!--more-->
 
