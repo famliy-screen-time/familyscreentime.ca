@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  {% include header.html %}
+  <div class="layout layout-one-column">
+    <main class="main">
+      <article class="article">
+        <header class="article-header w-auto">
+          <div class="article-title">
+            <h1>{{page.display_name}}</h1>
+          </div>
+
+          {% if page.featured_image %}
+          <figure class="featured-image author-image">
+            <img src="{{page.featured_image}}">
+          </figure>
+          {% endif %}
+        </header>
+
+        <h2>About {{page.display_name}}</h2>
+
+        {{content}}
+
+        <h2>Articles</h2>
+
+        {% assign authors_posts = site.posts | where: 'author', page.name %}
+        {% for post in authors_posts %}
+          <div class="postcard">
+            <div class="postcard-wrapper">
+              <div class="postcard-meta">
+                <a class="postcard-title" href="{{ post.url }}">{{ post.title }}</a>
+                <div class="postcard-date">{{ post.date | date_to_string }}</div>
+              </div>
+
+              <div class="postcard-content">
+                <div class="article">
+                  {{ post.excerpt }}
+                </div>
+                <a class="postcard-link" href="{{ post.url }}">Read more</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </article>
+    </main>
+  </div>
+  {% include footer.html %}
+</body>
+</html>
