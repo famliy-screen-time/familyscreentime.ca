@@ -33,3 +33,26 @@ collections:
       - name: body
         label: Body
         widget: markdown
+  - name: authors
+    label: Authors
+    folder: _authors/
+    create: true
+    editor:
+      preview: false
+    fields:
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: author
+      - name: name
+        label: 'Short name (no spaces)'
+        widget: string
+      - name: display_name
+        label: Display name
+        widget: string
+      - name: featured_image
+        label: Profile picture
+        widget: image
+      - name: body
+        label: Body
+        widget: markdown
