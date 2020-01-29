@@ -9,6 +9,7 @@ collections:
     folder: _posts/
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path: '{{slug}}'
     editor:
       preview: false
     fields:
@@ -22,6 +23,36 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
+      - name: author
+        label: Author
+        widget: relation
+        collection: authors
+        displayFields: [display_name]
+        searchFields: [display_name]
+        valueField: name
+      - name: body
+        label: Body
+        widget: markdown
+  - name: authors
+    label: Authors
+    folder: _authors/
+    create: true
+    editor:
+      preview: false
+    fields:
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: author
+      - name: name
+        label: 'Short name (no spaces)'
+        widget: string
+      - name: display_name
+        label: Display name
+        widget: string
+      - name: featured_image
+        label: Profile picture
+        widget: image
       - name: body
         label: Body
         widget: markdown

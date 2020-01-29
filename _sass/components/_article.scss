@@ -180,6 +180,15 @@ $breakpoint-xl: 1200px;
     }
   }
 
+  .author-image {
+    border-radius: 3000px;
+    box-shadow: 0 8px 16px rgba(10, 10, 10, 0.15);
+    padding: 8px;
+    img {
+      border-radius: 3000px;
+    }
+  }
+
   .article-date {
     font-family: $headings-font-family;
     font-weight: $headings-font-weight;
