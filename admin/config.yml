@@ -25,11 +25,14 @@ collections:
         widget: datetime
       - name: author
         label: Author
-        widget: relation
-        collection: authors
-        displayFields: [display_name]
-        searchFields: [display_name]
-        valueField: name
+        widget: select
+        options:
+          - label: Zakary Draper
+            value: zakarydraper
+          - label: Emma Smith
+            value: emmasmith
+          - label: Sage Trampleasure
+            value: sagetrampleasure
       - name: body
         label: Body
         widget: markdown
@@ -53,6 +56,10 @@ collections:
       - name: featured_image
         label: Profile picture
         widget: image
+      - name: icon
+        label: Icon
+        widget: string
+        default: smile
       - name: body
         label: Body
         widget: markdown

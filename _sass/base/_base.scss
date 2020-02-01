@@ -42,3 +42,13 @@ textarea,
 select {
   font: inherit;
 }
+
+.icon {
+  font-size: 80%;
+  width: 1.375em;
+  display: inline-block;
+  --fa-primary-color: #113879;
+  --fa-secondary-color: pink;
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+}
