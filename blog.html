@@ -11,14 +11,14 @@ title: Family Screen Time Blog
       <div class="postcard-meta">
         <a class="postcard-title" href="{{ post.url }}">{{ post.title }}</a>
         <div>
-          <span class="icon"><i class="far fa-clock"></i></span>
+          <span class="icon"><i class="fad fa-clock"></i></span>
           {{ post.date | date_to_string }}
         </div>
         {% if post.author %}
           {% assign author = site.authors | where: 'name', post.author | first %}
           {% if author %}
             <div>
-              <span class="icon"><i class="far fa-meh"></i></span>
+              <span class="icon"><i class="fad fa-{{author.icon}}"></i></span>
               <a href="{{author.url}}">{{author.display_name}}</a>
             </div>
           {% endif %}
