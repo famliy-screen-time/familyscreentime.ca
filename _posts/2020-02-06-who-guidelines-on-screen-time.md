@@ -16,12 +16,14 @@ Here are the screen time recommendations for each age group:
 
 These screen time recommendations are specifically about “sedentary screen time,” which is defined as “time spent passively watching screen-based entertainment (TV, computer, mobile devices).” What’s especially important to note is that this definition “does not include active screen-based games where physical activity or movement is required.”
 
-The Guideline Development Group (GDG), which oversaw the development of the guidelines, recognized that their recommendations were based on evidence that was “very low quality.” The studies used to form the basis of the recommendations often did not find an association between the behaviour the recommendations were targeting (e.g. sedentary time) and desired health outcomes (e.g. cognitive and motor development, psychosocial health).
+> \[The] recommendations were based on evidence that was "very low quality."
 
-Keeping the quality of evidence in mind, the overall goal of the guidelines is still important - encouraging a healthy level of physical activity in children. In this context, screen time is important only in how it prevents physical activity. The recommendations also specify that children should not be restrained for over an hour at a time (such as in strollers or car seats).
+The Guideline Development Group, which oversaw the development of the guidelines, recognized that their recommendations were based on evidence that was “very low quality.” The studies used to form the basis of the recommendations often did not find an association between the behaviour the recommendations were targeting (e.g. sedentary time) and desired health outcomes (e.g. cognitive and motor development, psychosocial health).
+
+In addition to the low quality evidence, it is important to consider these recommendations in the context of the overall goal of the guidelines: encouraging a healthy level of physical activity in children. In this context, screen time is important only to the extent that it prevents physical activity. The recommendations also specify that children should not be restrained for over an hour at a time (such as in strollers or car seats).
 
 There is also a note in the guidelines that sedentary (seated) behaviours are not entirely negative. Many activities, such as playing with blocks, music, and reading storybooks, are sedentary, but are especially important for brain development. 
 
-Sedentary screen time can also have developmental benefits, such as reading an eBook or playing a puzzle game, but these activities should happen alongside a caregiver who can guide the experience and make sure the child is engaged.
+Sedentary screen time could also have developmental benefits. For example, high quality television programming has been associated with improved language aquisition in young children. Such activities are best enjoyed alongside an engaged parent or caregiver.
 
-Early childhood is an important developmental stage, and children should be encouraged to be active and engaged with the world around them as their bodies and minds are developing. Screen time can be a part of a healthy child’s day, but parents should be part of their child’s screen time whenever possible.
+Early childhood is an important developmental stage, and children should be encouraged to be active and engaged with the world around them as their bodies and minds are developing. Screen time can be a part of a healthy child’s day, and parents should be part of their child’s screen time whenever possible.
