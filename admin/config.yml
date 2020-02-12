@@ -31,8 +31,8 @@ collections:
             value: zakarydraper
           - label: Emma Smith
             value: emmasmith
-          - label: Sage Trampleasure
-            value: sagetrampleasure
+          - label: Sage T
+            value: saget
       - name: body
         label: Body
         widget: markdown
