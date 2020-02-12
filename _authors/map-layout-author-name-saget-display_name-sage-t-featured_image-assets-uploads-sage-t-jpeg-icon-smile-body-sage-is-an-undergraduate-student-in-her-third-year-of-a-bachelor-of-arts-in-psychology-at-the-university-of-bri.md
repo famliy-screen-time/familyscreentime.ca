@@ -1,7 +1,7 @@
 ---
 layout: author
-name: saget
-display_name: Sage T
+name: sagetrampleasure
+display_name: Sage Trampleasure
 featured_image: /assets/uploads/sage-t.jpeg
 icon: smile
 ---
