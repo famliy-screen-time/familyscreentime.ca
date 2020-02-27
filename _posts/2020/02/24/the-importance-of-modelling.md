@@ -4,13 +4,9 @@ title: The Importance of Modelling
 date: 2020-02-24T18:07:17.454Z
 author: sagetrampleasure
 ---
-It's no secret that children learn by example. When it comes to screen use and physical activity, are you modelling healthy behaviours for your child to follow?
+It's no secret that children learn by example. As the people they likely spend the most time around, children will pick up many important behaviours and habits from parents. When it comes to screen use and physical activity, are you modelling healthy behaviours for your child to follow?
 
 
-
-
-
-IN PROGRESS
 
 Research Round-Up:
 
