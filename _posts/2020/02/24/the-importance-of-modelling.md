@@ -8,7 +8,7 @@ It's no secret that children learn by example. As the people they likely spend t
 
 ![](/assets/uploads/Lead by example.PNG "Leading by Example")
 
-The concept of "modelling" essentially means that . 
+The concept of "modelling" essentially means that by just seeing a behaviour done by someone influential to you, it is possible that you will imitate that behaviour in your own life. This style of learning is one of the most important ways that children learn in early life, as they experience daily examples set, both good and bad, by the people they look up to the most - their parents.
 
 Recent research (within the last 10 years) looking at the effects of parent modelling on their children's screen-use, physical activity, and healthy eating habits has revealed the following:
 
@@ -18,4 +18,6 @@ Recent research (within the last 10 years) looking at the effects of parent mode
 * A 2010 [study](https://www.sciencedirect.com/science/article/abs/pii/S1440244009001510) found that parents' physical activity rates and a child's age were significant factors associated with children's rates of physical activity. 
 * Finally, a [study ](https://cdn.journals.lww.com/jrnldbp/FullText/2014/07000/Role_Modeling_as_an_Early_Childhood_Obesity.4.aspx?casa_token=PDyO2eSdUEIAAAAA:kzEq1zeUtavp_TrA90EGjVz12GNSeu_EJnBOikzuVh1o20JWvemimvBiuL38pQr4JRoPTAqpM8SMoJpqsGUq4fI)of 1000+ children and parents found that higher consumption of fruits and vegetables by parents significantly increased their children's consumption of fruits and vegetables, and parents decreasing junk food consumption influenced the same decrease seen in children. Children who did not experience any modelling from parents, on the other hand, had an increase in junk food consumption and sedentary behaviour. These effects were not seen when teachers did the modelling instead of parents, suggesting that a child's parent is their main source of learning by example.
 
-Especially by parents of the same gender. This suggests that when a child sees their parent - especially the parent that they identify with in terms of gender - do a certain activity, they are more likely to follow in their footsteps and do the same.
+Clearly, research shows that the examples set by parents have a very important influence in the behaviours and habits that their young children adopt. This relationship is especially seen between parents and children of the same gender. This suggests that when a child sees their parent - especially the parent that they identify with in terms of gender - do a certain activity, they are more likely to follow in their footsteps and do the same. 
+
+With this information in mind, it may be a good idea to take a look at the healthy and unhealthy behaviours you employ in your daily life. Looking back to the cartoon above - if you want your children to adopt healthy screen time habits, the starting point may be to look at your own habits and make sure you are modelling the behaviour you wish to see!
