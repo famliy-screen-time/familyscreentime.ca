@@ -39,6 +39,9 @@ collections:
   - name: authors
     label: Authors
     folder: _authors/
+    slug: '{{slug}}'
+    preview_path: 'authors/{{slug}}'
+    identifier_field: name
     create: true
     editor:
       preview: false
@@ -56,6 +59,7 @@ collections:
       - name: featured_image
         label: Profile picture
         widget: image
+        required: false
       - name: icon
         label: Icon
         widget: string
