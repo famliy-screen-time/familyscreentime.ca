@@ -14,7 +14,11 @@ The concept of "modelling" essentially means that by just seeing a behaviour don
 
 # Do Children Learn by Example?
 
+The short answer is - YES! The idea that children learn by example has been supported by research dating back to the 1960's, when a very famous psychological experiment called the "[Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html)" showed that children could quickly pick up on - and imitate - social behaviours such as aggression just by watching an adult show aggressive behaviour to a humanistic doll. 
 
+This crucial study also found that children were more likely to model behaviours that were shown to have positive consequences than when they saw a behaviour with negative consequences. For example, children were more likely to model aggression when they saw the model being rewarded by candy for being aggtessive to the doll, but they were less likely to imitate the behaviour when they saw the model being scolded for the aggressive behaviour.
+
+Since this study, the concept of modelling has been reinforced time and again by research both older and more modern. Aside from research, it is likely that you yourself have noticed behaviours and habits that your child may have picked up from daycare, their peers, or from you as parents!
 
 # Modelling Healthy Screen Time Habits
 
