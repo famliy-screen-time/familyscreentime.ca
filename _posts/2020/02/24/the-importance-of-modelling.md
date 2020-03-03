@@ -10,11 +10,11 @@ It's no secret that children learn by example. As the people they likely spend t
 
 # What is "Modelling?"
 
-The concept of "modelling" essentially means that by just seeing a behaviour done by someone influential to you, it is possible that you will imitate that behaviour in your own life. This style of learning is one of the most important ways that children learn in early life, as they experience daily examples (both good and bad), set by the people they look up to the most—their parents.
-
-
+The concept of "modelling" essentially means that by just seeing a behaviour done by someone influential to you, it is possible that you will imitate that behaviour in your own life. This style of learning is one of the most important ways that children learn in early life, as they experience daily examples (both good and bad), set by the people they look up to the most — including their parents.
 
 # Do Children Learn by Example?
+
+
 
 # Modelling Healthy Screen Time Habits
 
@@ -31,6 +31,16 @@ Clearly, research shows that the examples set by parents have a very important i
 # You Are What You Watch?
 
 If children learn behaviours modelled by people they look up to and respect, couldn't they also learn from the examples of their favourite TV characters? Yes! Even though the characters are fictitious, the connections that children (and adults for that matter!) feel with those characters can be very real. This is one reason why it is important for parents to ensure that the content their children consume is reflects values they want to instill in their children.
+
+A 2019 [study](https://www.tandfonline.com/doi/full/10.1080/17482798.2019.1689369) looking at role models in TV shows geared toward preschool children explained a few interesting bits of information:
+
+* Children tend to idenfity with TV role models who are the same gender and race as themselves.
+* Preschoolers learn the most from TV characters that they can trust (i.e. main characters, not villains).
+* Children learned more from a scientific show when human-like characters presented the information than when there were no human aspects (just words).
+* TV characters as role models can influence more prosocial behaviours and less antisocial behaviours among preschool children.
+* Even in older children, TV role models can influence future career choices.
+
+This tells us that beyond the behaviours parents are modelling for their children, it is important that they also take into account what role models their children are learning from via screens, and to ensure that these are healthy and beneficial role models.
 
 # Conclusion
 
