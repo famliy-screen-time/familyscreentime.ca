@@ -12,6 +12,8 @@ It's no secret that children learn by example. As the people they likely spend t
 
 The concept of "modelling" essentially means that by just seeing a behaviour done by someone influential to you, it is possible that you will imitate that behaviour in your own life. This style of learning is one of the most important ways that children learn in early life, as they experience daily examples (both good and bad), set by the people they look up to the most—their parents.
 
+
+
 # Do Children Learn by Example?
 
 # Modelling Healthy Screen Time Habits
