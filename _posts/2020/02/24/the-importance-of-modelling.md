@@ -14,9 +14,9 @@ The concept of "modelling" essentially means that by just seeing a behaviour don
 
 # Do Children Learn by Example?
 
-The short answer is - YES! The idea that children learn by example has been supported by research dating back to the 1960's, when a very famous psychological experiment called the "[Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html)" showed that children could quickly pick up on - and imitate - social behaviours such as aggression just by watching an adult show aggressive behaviour to a humanistic doll. 
+The short answer is YES! The idea that children learn by example has been supported by research dating back to the 1960's, when a very famous psychological experiment called the "[Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html)" showed that children could quickly pick up on—and imitate—social behaviours such as aggression just by watching an adult show aggressive behaviour to a human-like doll. 
 
-This crucial study also found that children were more likely to model behaviours that were shown to have positive consequences than when they saw a behaviour with negative consequences. For example, children were more likely to model aggression when they saw the model being rewarded by candy for being aggtessive to the doll, but they were less likely to imitate the behaviour when they saw the model being scolded for the aggressive behaviour.
+This crucial study also found that children were more likely to model behaviours that were shown to have positive consequences than when they saw a behaviour with negative consequences. For example, children were more likely to model aggression when they saw the model being rewarded with candy for being aggressive to the doll, but they were less likely to imitate the behaviour when they saw the model being scolded for the aggressive behaviour.
 
 Since this study, the concept of modelling has been reinforced time and again by research both older and more modern. Aside from research, it is likely that you yourself have noticed behaviours and habits that your child may have picked up from daycare, their peers, or from you as parents!
 
@@ -38,7 +38,7 @@ If children learn behaviours modelled by people they look up to and respect, cou
 
 A 2019 [study](https://www.tandfonline.com/doi/full/10.1080/17482798.2019.1689369) looking at role models in TV shows geared toward preschool children explained a few interesting bits of information:
 
-* Children tend to idenfity with TV role models who are the same gender and race as themselves.
+* Children tend to identify with TV role models who are the same gender and race as themselves.
 * Preschoolers learn the most from TV characters that they can trust (i.e. main characters, not villains).
 * Children learned more from a scientific show when human-like characters presented the information than when there were no human aspects (just words).
 * TV characters as role models can influence more prosocial behaviours and less antisocial behaviours among preschool children.
