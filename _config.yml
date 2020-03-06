@@ -3,7 +3,7 @@ collections:
     output: true
     permalink: "/:collection/:name"
   posts:
-    permalink: "/:year/:month/:day/:slug"
+    permalink: "/:year-:month-:day-:slug"
 
 defaults:
   - scope:
