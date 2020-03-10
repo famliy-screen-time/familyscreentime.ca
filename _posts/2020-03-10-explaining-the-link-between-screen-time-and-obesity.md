@@ -8,7 +8,7 @@ author: sagetrampleasure
 
 A large amount of research has established a clear link between screen usage and obesity in children. What exactly is behind this link? Do parents really need to prohibit screen usage to prevent child obesity, or is a happy medium possible?
 
-#### The Research
+# The Research
 
 In 2017, an international non-profit organization called *Children and Screens: Institute of Digital Media and Child Development* put out a compilation of recent research about the relationship between screen usage and child obesity, based on an article by the [American Academy of Pediatrics. ](https://pediatrics.aappublications.org/content/pediatrics/140/Supplement_2/S97.full.pdf)
 
@@ -18,7 +18,7 @@ However, not only did the research find a correlation between screen use and obe
 
 Basically, what all of this research concluded was that *there seems to be a causal relationship between screen usage and risk for childhood obesity.*
 
-### The Relationship
+# The Relationship
 
 The **three important mechanisms** of the relationship between screen use and obesity are:
 
@@ -34,4 +34,11 @@ Let's go through each of these mechanisms one by one.
 
 **Disrupting sleep**: this mechanism takes some of the information about before-bed screen time and lower sleep quality from [a previous blog post](https://familyscreentime.ca/2020-02-10-screens-sleep), and takes it one step further - one of the consequences of your child's sleep being disrupted by screens could potentially be a higher risk for obesity. The article suggests that sleep disruptions can affect hormones related to appetite, and lead to more snacking and eating outside of mealtimes - which can all in turn lead to obesity.
 
-**What Can Parents Do?**
+# **What Can Parents Do?**
+
+It is unneccessary - let alone impossible - to completely remove screens from your children's lives. Some more reasonable approaches to minimizing the risk for obesity due to screen use include:
+
+* Setting daily or weekly limits for screen use with your child,
+* Limit how often / how much your child eats while viewing screens,
+* Monitor your child's screen use for advertising content (or choose advertisement-free media), and
+* Set a good example (the importance of this was talked about in [another blog post](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling)) by limiting your own screen time.
