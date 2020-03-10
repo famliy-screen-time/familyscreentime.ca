@@ -20,10 +20,18 @@ Basically, what all of this research concluded was that *there seems to be a cau
 
 ### The Relationship
 
-The **three important mechanisms** of this relationship are:
+The **three important mechanisms** of the relationship between screen use and obesity are:
 
-* Increased eating while viewing screens
-* Seeing advertisements for unhealthy foods that alter the child's preferences
-* Disrupting sleep
+* Increased eating while viewing screens,
+* Seeing advertisements for unhealthy foods that alter the child's preferences, and
+* Disrupting sleep.
 
-This final point takes the information about before-bed screen time and lower sleep quality from [a previous blog post](https://familyscreentime.ca/2020-02-10-screens-sleep), and takes it one step further - one of the consequences of your child's sleep being disrupted by screens
+Let's go through each of these mechanisms one by one.
+
+**Increased eating while viewing screens**: when children are engaged in screen-viewing, the article suggests that more high-calorie food and drinks are consumed - and that by repeating this behaviour, the screen can become a trigger or prompt for eating, extend the amount of time spent eating, or distracting the child from feeling full.
+
+**Seeing advertisements for unhealthy foods**: in many types of mainstream media, advertisements often appear that glorify candy, fast-food restaurants, or other unhealthy snacks. These ads can impact children's food preferences, grocery requests to parents, and ultimately, their eating habits. 
+
+**Disrupting sleep**: this mechanism takes some of the information about before-bed screen time and lower sleep quality from [a previous blog post](https://familyscreentime.ca/2020-02-10-screens-sleep), and takes it one step further - one of the consequences of your child's sleep being disrupted by screens could potentially be a higher risk for obesity. The article suggests that sleep disruptions can affect hormones related to appetite, and lead to more snacking and eating outside of mealtimes - which can all in turn lead to obesity.
+
+**What Can Parents Do?**
