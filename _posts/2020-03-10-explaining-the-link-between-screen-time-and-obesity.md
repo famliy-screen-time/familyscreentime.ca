@@ -42,3 +42,5 @@ It is unneccessary - let alone impossible - to completely remove screens from yo
 * Limit how often / how much your child eats while viewing screens,
 * Monitor your child's screen use for advertising content (or choose advertisement-free media), and
 * Set a good example (the importance of this was talked about in [another blog post](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling)) by limiting your own screen time.
+
+It is also important to note that screen usage is not the only cause of childhood obesity, and other measures unrelated to screen time should definitely be put in place to help minimize the risk.
