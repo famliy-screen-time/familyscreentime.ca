@@ -8,6 +8,8 @@ author: sagetrampleasure
 
 A large amount of research has established a clear link between screen usage and obesity in children. What exactly is behind this link? Do parents really need to prohibit screen usage to prevent child obesity, or is a happy medium possible?
 
+<!--more-->
+
 # The Research
 
 In 2017, an international non-profit organization called *Children and Screens: Institute of Digital Media and Child Development* put out a compilation of recent research about the relationship between screen usage and child obesity, based on an article by the [American Academy of Pediatrics. ](https://pediatrics.aappublications.org/content/pediatrics/140/Supplement_2/S97.full.pdf)
