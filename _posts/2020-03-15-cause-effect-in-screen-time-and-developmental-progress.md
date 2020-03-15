@@ -6,6 +6,8 @@ author: emmasmith
 ---
 Early childhood is a key developmental stage, and any factor that may have an impact on that development is important to know. A [recent study](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2722666?guestAccessKey=879c6c87-141e-48f8-8c95-4d684600a644) is the first to suggest that screen time is one of those factors. How did it come to this conclusion?
 
+<!--more-->
+
 #### Longitudinal Studies
 
 This was a longitudinal study, or a study conducted with the same participants over an extended period of time – in this case, four years from ages two to five. This type of study is important for establishing relationships between behaviours, especially when it comes to development.
