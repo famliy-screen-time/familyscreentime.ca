@@ -10,7 +10,7 @@ Early childhood is a key developmental stage. As such, it is important to know a
 
 ## Longitudinal Studies
 
-This was a longitudinal study, or a study conducted with the same participants over an extended period of time. This type of study is useful for establishing the direction of relationships between behaviours. It is especially when it developmental research, as it allows researchers to observe how participants change (i.e., develop) over time.
+This was a longitudinal study, or a study conducted with the same participants over an extended period of time. This type of study is useful for establishing the direction of relationships between behaviours. It is especially useful in developmental research, as it allows researchers to observe how participants change (i.e., develop) over time.
 
 Participants in this study were measured on three occasions: when their children were 2-, 3-, and 5-years old. Measurements included a developmental progress questionnaire and an estimate of screen time on a typical day, both reported by the mother.
 
@@ -34,9 +34,9 @@ The authors acknowledged this limitation. They even demonstrated that both scree
 
 ## Conclusion
 
-What is the takeaway from this study? There is evidence to show that screen time has the potential to be harmful to child development. However, this is a complicated relationship that involves many factors, not just screen time by itself.
+What is the takeaway from this study? There is evidence to show that screen time has the potential to be harmful to child development. However, this is a complicated relationship that involves many factors, not just screen time by itself. 
 
-This study does not suggest that screen time is inherently bad. Instead, parents should be mindful of how their children are interacting with technology. Questions like the ones above can be used to help develop healthy screen time habits in the home.
+This study does not suggest that screen time is inherently bad. Instead, parents should be mindful of how their children are interacting with technology. 
 
 The [BBC](https://www.bbc.com/news/health-47026834) article that reported on the study points out that different national child research groups, including in the US, Canada, and the UK, have provided different guidelines for screen time among young children. This shows how research on the effects of screen time is still ongoing, but it can be confusing for parents who want straightforward advice. [The Royal College of Paediatrics and Child Health](https://www.rcpch.ac.uk/sites/default/files/2018-12/rcpch_screen_time_guide_-_final.pdf) in the UK does not suggest any hard limits on screen time based on age or hours per day, but it does offer some open-ended questions for families to consider:
 
