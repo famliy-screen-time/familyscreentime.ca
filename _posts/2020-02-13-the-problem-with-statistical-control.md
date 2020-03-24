@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Don't Know Much About Screen Time
-date: 2020-02-13T00:30:32.023Z
+date: 2020-04-06T16:00:32.023Z
 author: zakarydraper
 ---
 I have a confession to make. I really don't know all that much about screen time. Having spent a substantial amount of time becoming familiar with the research that has been conducted in this area, and having conducted some of that research myself, I have become convinced that *no one knows that much about screen time*.
