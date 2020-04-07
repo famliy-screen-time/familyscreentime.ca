@@ -54,4 +54,8 @@ Again enforcing the interactivity component of good quality screen time, it is d
 
 Finally, the article emphasizes the fact that it is not the end of the world if your child engages in screen time simply for entertainment, as a treat, or to unwind - as long as this form of screen time is accompanied with healthy limits and boundaries. The thing to remember here is that letting your child engage in a limited amount of passive screen time doesn't make you a bad parent, in the same way that completely restricting screen time isn't the only ingredient for good parenting!
 
+
+
+# Conclusion
+
 Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance.
