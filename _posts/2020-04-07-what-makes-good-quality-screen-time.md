@@ -58,4 +58,6 @@ Finally, the article emphasizes the fact that it is not the end of the world if 
 
 # Conclusion
 
-Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance.
+Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance. 
+
+When screen time is involved in your child's day, using these guidelines can help you to choose the best possible option for your child.
