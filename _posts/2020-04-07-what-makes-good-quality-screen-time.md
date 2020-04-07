@@ -28,19 +28,19 @@ In these cases, the screen is a background activity and what takes center stage 
 
 ## Child-Directedness
 
-the key word here is active screen time
+An important factor in making the most of your child's screen time is the element of child-directedness. This means that the more media encourages your child to take the lead and make creative and challenging decisions, the better it will be for your child's cognitive development.
 
-[According to an Australian study ](https://www.ledevoir.com/documents/pdf/screen_time.pdf)on active and passive screen uses, there are actually two types of active screen use: physical and cognitive. Kids can actually get similar benefits to physical exercise when they play with active video game systems like the Nintendo Switch, XBox Kinect or Pokemon Go.
+The article suggests that an open-ended, responsive, choose your own adventure-style form of screen time is more likely to have educational benefits than one that doesn't require much control on the child's end. Basically, the play should be child-led, rather than app-led - in line with the classic saying that "any toy that your child is playing with should be 10% toy, and 90% child.
 
-ecommends multi-sensory experiences: “There should be multiple inputs of stimulation — they’re looking, they’re listening and then they’re swiping. Or they’re taking a picture of something that’s real and they’re doing something with it.”
+
 
 ## Active vs. Passive Screen Time
 
-An open-ended, responsive, choose your own adventure-style app is more likely to have educational benefits than one that is linear, experts agree. The play should be child-led, rather than app-led.
+One of the main elements of good quality screen time, as emphasized by the article, is the favoring of "active screen time" over "passive screen time". To illustrate, active screen time would include media where your child is actively engaging, whether they are moving along physically with the app, or completing cognitively challenging tests. Passive screen time, however, would include watching any regular TV show, where your child sits back and absorbs information. When it comes to "good quality" screen time, active is the way to go.
 
-Dr. Lytle cites the classic saying that any toy that your child is playing with should be 10 percent toy, 90 percent child. “As with toys, that’s something we would suggest in an app. Things that are more open-ended allow a child to really create and be creative and interact with the app.”
+[According to an Australian study ](https://www.ledevoir.com/documents/pdf/screen_time.pdf)on active and passive screen uses, there are actually two types of active screen use: physical and cognitive. As mentioned before, children can get physical benefits when they move around in response to media, such as following a video game's dance routine. Children can also get cognitive benefits when they answer skill-testing questions on an online quiz, or use problem-solving skills to advance in a game. 
 
-
+This article also recommends multi-sensory experiences: “There should be multiple inputs of stimulation — they’re looking, they’re listening and then they’re swiping. Or they’re taking a picture of something that’s real and they’re doing something with it.” The more ways in which your child can interact with the media, the more beneficial it will be to different aspects of their development.
 
 ## Social Elements
 
