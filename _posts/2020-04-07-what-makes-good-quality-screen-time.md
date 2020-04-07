@@ -18,9 +18,13 @@ An article posted by [Child Mind Institute](https://childmind.org/article/value-
 
 ## Interactivity
 
-most important form of interactivity is what happens with[parents as they participate in toddler screen time](https://childmind.org/article/benefits-watching-tv-young-children/). “Simple screen time just with the child watching the show or playing with the app,” notes Dr. Cruger, “is far less valuable than when it also involves direct interaction with the parents.”\
-\
-*joint media engagement*, which means you’re going to interact with your child around screens just like you would interact with your child around any kind of media, whether it’s a book, or art material.”
+This article claims that where screen time is concerned, the "most important form of interactivity is what happens with parents as they participate in toddler screen time". What brings up the quality of a certain form of screen time is when it involves direct interaction with the parents.
+
+The article also introduces the term "joint media engagement" as the gold standard of interactive screen time - this is when you interact with your child centered around a screen in the exact same way as you would with a book, or a painting, for example. 
+
+In these cases, the screen is a background activity and what takes center stage is the interaction between you and your child, and is only supplemented by whatever media you have chosen.
+
+
 
 ## Child-Directedness
 
@@ -32,8 +36,6 @@ ecommends multi-sensory experiences: “There should be multiple inputs of stimu
 
 ## Active vs. Passive Screen Time
 
-
-
 An open-ended, responsive, choose your own adventure-style app is more likely to have educational benefits than one that is linear, experts agree. The play should be child-led, rather than app-led.
 
 Dr. Lytle cites the classic saying that any toy that your child is playing with should be 10 percent toy, 90 percent child. “As with toys, that’s something we would suggest in an app. Things that are more open-ended allow a child to really create and be creative and interact with the app.”
@@ -42,7 +44,9 @@ Dr. Lytle cites the classic saying that any toy that your child is playing with 
 
 ## Social Elements
 
-You might find yourself doubting whether screen time can provide any social benefits for your young child - with them being too young to participate in social media or other forms of interacting with peers. However, screen time can potentially be a link between your child and their uncles, aunts, grandparents, or any of their loved ones who they aren't able to see - especially in the current situation. As mentioned by a researcher in the article, “one of the great uses of iPads or iPhones is communicating relatives who do not live nearby \[...] this is a *great* use of technology.”
+You might find yourself doubting whether screen time can provide any social benefits for your young child - with them being too young to participate in social media or other forms of interacting with peers. However, screen time can potentially be a link between your child and their uncles, aunts, grandparents, or any of their loved ones who they aren't able to see - especially in our current pandemic situation! As mentioned by a researcher in the article, “one of the great uses of iPads or iPhones is communicating relatives who do not live nearby \[...] this is a *great* use of technology.”
+
+Again enforcing the interactivity component of good quality screen time, it is definitely possible for a good old FaceTime to spark feelings of connectivity in your child.
 
 
 
@@ -50,7 +54,4 @@ You might find yourself doubting whether screen time can provide any social bene
 
 Finally, the article emphasizes the fact that it is not the end of the world if your child engages in screen time simply for entertainment, as a treat, or to unwind - as long as this form of screen time is accompanied with healthy limits and boundaries. The thing to remember here is that letting your child engage in a limited amount of passive screen time doesn't make you a bad parent, in the same way that completely restricting screen time isn't the only ingredient for good parenting!
 
-\
--- not a rpelacement for quality time and physical interaction
-
-even the best of them cannot compete with real life activities and human interaction.
+Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance.
