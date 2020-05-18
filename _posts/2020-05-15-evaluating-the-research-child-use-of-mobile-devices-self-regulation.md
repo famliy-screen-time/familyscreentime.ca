@@ -34,4 +34,10 @@ No study is perfect - they all have their limitations. As for this study, these 
 
 ### The Takeaway
 
-As noted in an [article](https://www.medicalnewstoday.com/articles/should-parents-limit-screen-time-for-young-children), one of the main take-aways from this study was that parents should consider delaying the introduction of screen time to very young children *whatsoever*, meaning that any and all forms of screen time should be avoided before the child reaches a certain age (it was not mentioned what age this would be). I believe that, while it would definitely bene
+As noted in an [article](https://www.medicalnewstoday.com/articles/should-parents-limit-screen-time-for-young-children) discussing this research, one of the main take-aways from this study was that parents should consider delaying the introduction of screen time to very young children *whatsoever*, meaning that any and all forms of screen time should be avoided before the child reaches a certain age (it was not mentioned what age this would be). 
+
+I believe that, while this recommendation could certainly benefit young children by allowing them to experience other forms of entertainment such as imaginative play, it is more than likely impossible for a parent to ensure that their young child is completely unexposed to screens while they are young. 
+
+In the case of this study - and any study - a realistic course of action for parents is to read and evaluate new information, think about what it could mean for their child, and try to apply the recommendations as much as they can while keeping in mind what would work best for their child and for their specific situation as a parent. 
+
+The most important thing to remember is that research findings and recommendations are not meant to scare, discourage, or criticize parents - but instead to guide them in finding a healthy balance between their child's well-being and development and the presence of screentime in their lives.
