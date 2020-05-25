@@ -4,7 +4,7 @@ title: Screen Time Focus Group Insights
 date: 2020-05-25T01:57:44.332Z
 author: sagetrampleasure
 ---
-When it comes to screen time - including its guidelines for use, and its benefits and potential harms for child development - 
+When it comes to screen time - including its guidelines for use, and its benefits and potential harms for child development - any relevant research is very new, and very sparse. Since the phenomenon of screen usage by young children is such a recent development in society, we haven't been able to learn from many long-term, good-quality studies telling us a definitive answer of how this will affect young children as they grow. 
 
 
 
