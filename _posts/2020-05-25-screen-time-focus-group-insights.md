@@ -16,53 +16,45 @@ Back in April, the Family Screen Time project researchers facilitated a focus gr
 
 # Healthy Screen Time
 
-When asked whether they thought that screen time had the potential to be healthy for young children, most focus group members agreed. 
+When asked whether they thought that screen time had the potential to be healthy for young children, most focus group members thought so. It was agreed that screen time can be healthy for interaction and as a teaching tool. 
 
-Screen time can be healthy for interaction and as a teaching tool
+It was also noted that the quality of the screen time is very important – but that parents struggle to pinpoint what makes some screen time of better quality than others. I believe that this concern rings true for many parents, since the recommendations and guidelines for healthy screen time require that it is "good quality", but don't go into much further detail about what exactly this entails. Because of this uncertainty, I would recommend looking into my previous blog post about [what makes "good quality" screen time ](https://familyscreentime.ca/2020-04-07-what-makes-good-quality-screen-time)- which essentially boils down to interactivity, child-directedness, social elements, and active viewing.
 
-The quality of the screen time is very important – but parents struggle to pinpoint what makes some screen time of better quality than others.
+Focus group members also aggreed that in order to be "healthy", screen time should avoid taking time away from other activities (i.e. time spent outside / imaginative play) that support a child's development in ways that screen time cannot (as far as we know).
 
-Healthy screen time should avoid taking time away from other activities (i.e. time spent outside / imaginative play) that support development.
-
-Suggested that for ages 2-5, approximately 20 minutes of screen time per day was appropriate.
-
-Noted that providing screens for young children may be essential to give parents time to complete practical tasks (i.e. making dinner, cleaning, work, etc.).
+When asked what amount of screen time could be healthy for young children, some focus group members suggested that for ages 2-5, approximately 20 minutes of screen time per day was appropriate. However, it was also mentioned that providing screens for young children may be essential to give parents time to complete practical tasks (i.e. making dinner, cleaning, work, etc.).
 
 # Screen Time Impacts
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Members were concerned about:
+When it comes to the potential negative impacts of screen time, focus group members were concerned about:
 
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->How easy it is for screen time to take over daily life
+* How easy it is for screens time to take over daily life
+* Reaction / judgment from other families (worries that others may look down on families that give their young children access to screens)
+* Lack of research on long-term impacts of screen time, including the development of motor skills
+* Potential struggles with boredum, need for instant gratification, anxiety
 
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Reaction / judgment from other families
+The group members also revealed some observed behaviours in their young children that concerned educators and parents, including:
 
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Lack of research on long-term impacts, development of motor skills
+* Developmental delays (shorter attention spans, aggression) related to technology use
+* Social issues (less verbal, less fluid sentences, impatience)
+* Screens seeping into everyday life (For example, a child who has never seen a television program knows all about the show / characters from other children at daycare)
+* Modelling of undesirable behaviours seen in screens (For example, a child shows aggression towards another child when modelling a scene from a children's movie)
 
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Potential struggles with boredum, need for instant gratification, anxiety
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Observed behaviours that concerned educators / parents:
-
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Developmental delays (shorter attention spans, aggression) related to technology use
-
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Social issues (less verbal, less fluid sentences, impatience)
-
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Screens seeping into everyday life (example = a child who has never seen the show “Paw Patrol” knows all about the show / characters from other children at daycare)
-
-<!--\\\[if !supportLists]-->o<!--\\\[endif]-->Modelling of undesirable behaviours seen in screens (example = a child hits another child with a toy pan to model an identical scene in Disney’s “Tangled”)
+While these trends are certainly worrisome, it is important to remember that the only way to prove that these behaviours are happening because of screen time is through good-quality research. While the idea that children model behaviours that they see performed by others in real life and over screens is [well-documented](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling) in research, whatever small amount of studies exist on developmental and social delays in children for the most part use small samples to make assumptions for a large population, and cannot be used to say that screen time *causes* these trends - even though this is often taken the wrong way by [news outlets](https://familyscreentime.ca/2020-01-28-screen-time-brain-development). 
 
 # Canadian Paediatric Society’s Recommendations
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Overall, parents feel there is a lack of recommendatinos for them to follow
+Overall, parents feel there is a lack of recommendatinos for them to follow
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->When recommendations do exist, they are often vague
+When recommendations do exist, they are often vague
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Recommendations should add healthy alternatives instead of just declaring what not to do
+Recommendations should add healthy alternatives instead of just declaring what not to do
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->The age range of 2-5 is too large / vague – suggested splitting it up into 2-3, 3-5
+The age range of 2-5 is too large / vague – suggested splitting it up into 2-3, 3-5
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Some recommendations are impractical (sedentary screentime not a part of childcare, avoiding screens for 1 hour before bed) and are often necessary for parents to “get things done”
+Some recommendations are impractical (sedentary screentime not a part of childcare, avoiding screens for 1 hour before bed) and are often necessary for parents to “get things done”
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Worry that if recommendations have too high of standards, they will just be ignored
+Worry that if recommendations have too high of standards, they will just be ignored
 
 # **Where do we go from here?**
 
@@ -72,16 +64,16 @@ The last thing we asked focus group members was how they thought the information
 
 The main theme was accessibility and informationality
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Emphasis on recommendations steering away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information this way.
+Emphasis on recommendations steering away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information this way.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Information for how to reduce screen time if families are in over their head (“Digital Detox”) – a path forward for families who don’t meet recommendations – how to work towards meeting them\\*\\*.\\*\\*
+Information for how to reduce screen time if families are in over their head (“Digital Detox”) – a path forward for families who don’t meet recommendations – how to work towards meeting them\\*\\*.\\*\\*
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Provide more research on screen time effects, reasons behind the recommendations – the “Why”.
+Provide more research on screen time effects, reasons behind the recommendations – the “Why”.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Improve visibility of recommendations – pamphlets, etc.
+Improve visibility of recommendations – pamphlets, etc.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Less prescriptive focus, more informational focus while giving parents the power to make decisions themselves.
+Less prescriptive focus, more informational focus while giving parents the power to make decisions themselves.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Provide information on how to discern good quality vs. bad quality screen time.
+Provide information on how to discern good quality vs. bad quality screen time.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Focus group members wished that they knew the social-emotional impacts of technolgoy as well as how their own screen time use wass affecting their children.
+Focus group members wished that they knew the social-emotional impacts of technolgoy as well as how their own screen time use wass affecting their children.
