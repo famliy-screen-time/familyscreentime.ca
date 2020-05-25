@@ -52,11 +52,9 @@ One of the few available sets of recommendations for healthy screen usage in you
 
 # **Where do we go from here?**
 
-The last thing we asked focus group members was how they thought the information regarding screen time and young children - CPA's recommendations as well as the state of the research - could be refined and improved upon in the future.
+The last thing we asked focus group members was how they thought the information regarding screen time and young children - CPA's recommendations as well as the state of the research - could be refined and improved upon in the future. The main theme of the suggestions from the focus group was accessibility and informationality. 
 
+* **Accessibility**: focus group members thought that the information and recommendations on childhood screen time could be improved with more accessibility. If the recommendations and relevant, good-quality research was made more available to parents and caregivers of young children, they would be more likely to use this information to make healthy choices about screen time for their young children.
+* **Information**: focus group members agreed that CPS's recommendations should steer away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information for parents this way. The focus group also mentioned the need for information on why these recommendations were put in place - including the research behind the recommendations, the benefits of following the recommendations, and the possible negative outcomes of not following them - the "Why?" behind the recommendations.
 
-
-The main theme of the suggestions from the focus group was accessibility and informationality.
-
-* Accessibility: focus group members thought that the information and recommendations on childhood screen time could be improved with more accessibility. If the recommendations and relevant, good-quality research was made more available to parents and caregivers of young children, they would be more likely to 
-* Informationality: focus group members agreed that CPS's recommendations should steer away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information for parents this way. The focus group also mentioned the need for information on why these recommendations were put in place - including the research behind the recommendations, the benefits of following the recommendations, and the possible negative outcomes of not following them - the "Why?" behind the recommendations.
+After learning about the opinions, concerns, and recommendations voiced by other parents and educators of young children, do you have anything to add? Is there anything you disagree with, or would like to be added to this information? If so, please reach out to familyscreentimeblog@gmail.com - we always welcome new insights to guide our future research!
