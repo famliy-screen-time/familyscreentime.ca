@@ -16,15 +16,17 @@ Back in April, the Family Screen Time project researchers facilitated a focus gr
 
 # Healthy Screen Time
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Screen time can be healthy for interaction and as a teaching tool
+When asked whether they thought that screen time had the potential to be healthy for young children, most focus group members agreed. 
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->The quality of the screen time is very important – but parents struggle to pinpoint what makes some screen time of better wuality than others.
+Screen time can be healthy for interaction and as a teaching tool
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Healthy screen time should avoid taking time away from other activities (i.e. time spent outside / imaginative play) that support development.
+The quality of the screen time is very important – but parents struggle to pinpoint what makes some screen time of better quality than others.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Suggested that for ages 2-5, approximately 20 minutes of screen time per day was appropriate.
+Healthy screen time should avoid taking time away from other activities (i.e. time spent outside / imaginative play) that support development.
 
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Noted that providing screens for young children may be essential to give parents time to complete practical tasks (i.e. making dinner, cleaning, work, etc.).
+Suggested that for ages 2-5, approximately 20 minutes of screen time per day was appropriate.
+
+Noted that providing screens for young children may be essential to give parents time to complete practical tasks (i.e. making dinner, cleaning, work, etc.).
 
 # Screen Time Impacts
 
