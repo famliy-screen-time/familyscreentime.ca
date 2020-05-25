@@ -10,11 +10,16 @@ When it comes to screen time - including its guidelines for use, and its benefit
 
 To learn more how young childrens' behaviour and development is evolving in relation to their exposure to screen time, we wanted to get a first-hand account of any behaviour trends or changes right from the source - from the individuals who spend the most time interacting with young children on a daily basis. These individuals, of course, are their parents, educators, and other primary caregivers.
 
-Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators.
+Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators. 
 
-**What follows is a summary of** 
+**What follows is a summary of what we learned from this focus group regarding four main topics:**
 
-**Healthy Screen Time**
+* Healthy Screen Time
+* Screen Time Impacts
+* Canadian Paediatric Society's Recommendations
+* Suggestions for Improvement
+
+# Healthy Screen Time
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Screen time can be healthy for interaction and as a teaching tool
 
@@ -26,7 +31,7 @@ Back in April, the Family Screen Time project researchers facilitated a focus gr
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Noted that providing screens for young children may be essential to give parents time to complete practical tasks (i.e. making dinner, cleaning, work, etc.).
 
-**Screen Time Impacts**
+# Screen Time Impacts
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Members were concerned about:
 
@@ -48,7 +53,7 @@ Back in April, the Family Screen Time project researchers facilitated a focus gr
 
 <!--\\\[if !supportLists]-->o<!--\\\[endif]-->Modelling of undesirable behaviours seen in screens (example = a child hits another child with a toy pan to model an identical scene in Disney’s “Tangled”)
 
-**Canadian Paediatric Society’s Recommendations**
+# Canadian Paediatric Society’s Recommendations
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Overall, parents feel there is a lack of recommendatinos for them to follow
 
@@ -62,7 +67,13 @@ Back in April, the Family Screen Time project researchers facilitated a focus gr
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Worry that if recommendations have too high of standards, they will just be ignored
 
-**Where do we go from here?**
+# **Where do we go from here?**
+
+The last thing we asked focus group members was how they thought the information regarding screen time and young children - CPA's recommendations as well as the state of the research - could be refined and improved upon in the future.
+
+
+
+The main theme was accessibility and informationality
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Emphasis on recommendations steering away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information this way.
 
