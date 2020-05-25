@@ -6,11 +6,9 @@ author: sagetrampleasure
 ---
 ###### *Today's blog post is a collection of insights, recommendations, questions and concerns that were voiced in a recent focus group consisting of parents and child educators on the topic of screen time and young children.*
 
-When it comes to screen time - including its guidelines for use, and its benefits and potential harms for child development - any relevant research is very new, and very sparse. Since the phenomenon of screen usage by young children is such a recent development in society, we haven't been able to learn from many long-term, good-quality studies telling us a definitive answer of how it will affect young children as they grow. In fact, one of the few things we know about the effects of screentime on young children is that *we don't know much at all.*
+When it comes to screen time - including its guidelines for use, and its benefits and potential harms for child development - any relevant research is very new, and very sparse. Since the phenomenon of screen usage by young children is such a recent development in society, we haven't been able to learn from many long-term, good-quality studies giving us a definitive answer of how it will affect young children as we grow. In fact, one of the few things we know about the effects of screentime on young children is that *we don't know much at all.*
 
-To learn more 
-
-right from the source - from the individuals who spend the most time interacting with young children on a daily basis. These individuals, of course, are their parents, educators, and other primary caregivers.
+To learn more how young childrens' behaviour and development is evolving in relation to their exposure to screen time, we wanted to get a first-hand account of any behaviour trends or changes right from the source - from the individuals who spend the most time interacting with young children on a daily basis. These individuals, of course, are their parents, educators, and other primary caregivers.
 
 Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators.
 
