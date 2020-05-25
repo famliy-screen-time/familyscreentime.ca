@@ -44,19 +44,11 @@ While these trends are certainly worrisome, it is important to remember that the
 
 # Canadian Paediatric Society’s Recommendations
 
-One of the few available sets of recommendations for healthy screen usage in young children is given to us by the Canadian Paediatric Society (you can see their full article [here](https://www.cps.ca/en/documents/position/screen-time-and-young-children), with the recommendations located near the end). When asked what they thought of the quality, 
+One of the few available sets of recommendations for healthy screen usage in young children is given to us by the Canadian Paediatric Society (you can see their full article [here](https://www.cps.ca/en/documents/position/screen-time-and-young-children), with the recommendations located near the end). When asked what they thought of the quality and practicality of these recommendations, this is what the focus group thought:
 
-Overall, parents feel that there is a lack of recommendations available for them to follow.
-
-When recommendations do exist, they are often vague
-
-Recommendations should add healthy alternatives instead of just declaring what not to do
-
-The age range of 2-5 is too large / vague – suggested splitting it up into 2-3, 3-5
-
-Some recommendations are impractical (sedentary screentime not a part of childcare, avoiding screens for 1 hour before bed) and are often necessary for parents to “get things done”
-
-Worry that if recommendations have too high of standards, they will just be ignored
+* Overall, parents feel that there is a lack of recommendations available for them to follow regarding screen time usage and young children. Whatever recommendations do exist are often vague, just declaring what not to do instead of providing healthy alternatives or concrete ways to follow the recommendations.
+* The focus group also felt that some of the CPS's recommendations are impractical, including the requirement that sedentary screentime (such as children sitting and watching TV) should not be a part of childcare. Some members thought that recommendations like these cannot always be followed because it is sometimes required in order to entertain children to give caregivers the time to get practical tasks done.
+* In general, group members voiced the worry that if recommendations have too high of standards, they will just be ignored.
 
 # **Where do we go from here?**
 
