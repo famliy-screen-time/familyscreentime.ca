@@ -44,7 +44,9 @@ While these trends are certainly worrisome, it is important to remember that the
 
 # Canadian Paediatric Society’s Recommendations
 
-Overall, parents feel there is a lack of recommendatinos for them to follow
+One of the few available sets of recommendations for healthy screen usage in young children is given to us by the Canadian Paediatric Society (you can see their full article [here](https://www.cps.ca/en/documents/position/screen-time-and-young-children), with the recommendations located near the end). When asked what they thought of the quality, 
+
+Overall, parents feel that there is a lack of recommendations available for them to follow.
 
 When recommendations do exist, they are often vague
 
