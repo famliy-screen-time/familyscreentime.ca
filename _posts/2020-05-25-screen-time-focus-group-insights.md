@@ -4,9 +4,7 @@ title: Screen Time Focus Group
 date: 2020-05-25T01:57:44.332Z
 author: sagetrampleasure
 ---
-Insights, 
-
-
+##### *A collection of insights, recommendations, questions and concerns that were voiced in a recent focus group consisting of parents and educators on the topic of screen time and young children.*
 
 When it comes to screen time - including its guidelines for use, and its benefits and potential harms for child development - any relevant research is very new, and very sparse. Since the phenomenon of screen usage by young children is such a recent development in society, we haven't been able to learn from many long-term, good-quality studies telling us a definitive answer of how it will affect young children as they grow. In fact, one of the few things we know about the effects of screentime on young children is that *we don't know much at all.*
 
