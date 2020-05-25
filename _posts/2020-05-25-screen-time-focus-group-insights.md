@@ -14,13 +14,7 @@ right from the source - from the individuals who spend the most time interacting
 
 Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators.
 
-**Who’s here:**
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Early childhood educators noticing worrying trends in child behaviour
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Parents of young children raised without screen time
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->Parent of older children raised with early screen time, wanting to learn
+**What follows is a summary of** 
 
 **Healthy Screen Time**
 
