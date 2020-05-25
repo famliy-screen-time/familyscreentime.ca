@@ -10,6 +10,10 @@ When it comes to screen time - including its guidelines for use, and its benefit
 
 To learn more 
 
+right from the source - from the individuals who spend the most time interacting with young children on a daily basis. These individuals, of course, are their parents, educators, and other primary caregivers.
+
+Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators.
+
 **Who’s here:**
 
 <!--\\\[if !supportLists]-->·<!--\\\[endif]-->Early childhood educators noticing worrying trends in child behaviour
