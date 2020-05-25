@@ -12,12 +12,7 @@ To learn more how young childrens' behaviour and development is evolving in rela
 
 Back in April, the Family Screen Time project researchers facilitated a focus group to hear from parents of young children raised without screen time, parents of children raised with early exposure to screens, and early childhood educators. 
 
-**What follows is a summary of what we learned from this focus group regarding four main topics:**
-
-* Healthy Screen Time
-* Screen Time Impacts
-* Canadian Paediatric Society's Recommendations
-* Suggestions for Improvement
+**What follows is a summary of what we learned from this focus group regarding four main topics: *Healthy Screen Time, Screen Time Impacts, Canadian Paediatric Society's Recommendations, and Suggestions for Improvement.***
 
 # Healthy Screen Time
 
