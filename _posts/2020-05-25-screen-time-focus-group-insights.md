@@ -56,18 +56,7 @@ The last thing we asked focus group members was how they thought the information
 
 
 
-The main theme was accessibility and informationality
+The main theme of the suggestions from the focus group was accessibility and informationality.
 
-Emphasis on recommendations steering away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information this way.
-
-Information for how to reduce screen time if families are in over their head (“Digital Detox”) – a path forward for families who don’t meet recommendations – how to work towards meeting them\\*\\*.\\*\\*
-
-Provide more research on screen time effects, reasons behind the recommendations – the “Why”.
-
-Improve visibility of recommendations – pamphlets, etc.
-
-Less prescriptive focus, more informational focus while giving parents the power to make decisions themselves.
-
-Provide information on how to discern good quality vs. bad quality screen time.
-
-Focus group members wished that they knew the social-emotional impacts of technolgoy as well as how their own screen time use wass affecting their children.
+* Accessibility: focus group members thought that the information and recommendations on childhood screen time could be improved with more accessibility. If the recommendations and relevant, good-quality research was made more available to parents and caregivers of young children, they would be more likely to 
+* Informationality: focus group members agreed that CPS's recommendations should steer away from telling parents what not to do, and towards sugegesting guidelines and ideas for healthy screentime – providing more information for parents this way. The focus group also mentioned the need for information on why these recommendations were put in place - including the research behind the recommendations, the benefits of following the recommendations, and the possible negative outcomes of not following them - the "Why?" behind the recommendations.
