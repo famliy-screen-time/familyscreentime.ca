@@ -16,7 +16,7 @@ Could be other way around - children who are less drawn towards physical activit
 
 Child care unaddressed factor
 
-Screen time, the researchers suggest, "reduces energy expenditure by displacing physical activity". This illustrates the point at which screen time can potentially become a problem for young children - when it is such a large part of their daily routine that physical activity, interaction, and other forms of development are replaced with screen time. There is an important distinction to be made here between any and all screen time being harmful for children's development (which is a very bold statement not likely to be true) and screen time having the potential to be harmful when it competes with, or replaces, other beneficial activites that your child needs to develop in a healthy manner. 
+
 
 
 
@@ -26,7 +26,19 @@ Each child's movement was measured using a device called an **accelerometer**. T
 
 
 
+# The Findings
 
+The following results stood out in this study:
+
+* Children aged 2-3 spent an average 2.5 hours on screens per day across all devices. 
+* Television was the most commonly used device and accounted for the most screen time.
+* More time spent on screens was predictive of more sedentary behaviour, less light physical activity, and less moderate-to-vigorous physical activity.
+* The negative association was strongest between screen time (television and handheld devices) and moderate / vigorous physical activity.
+* There were no significant difference in the amount of time children spent sleeping.
+
+
+
+# The Strengths
 
 The actual difference: in the results of this study, we learn that children who were on screens for more than 3 hours per day were more sedentary than children who were on screens for less than an hour. 
 
@@ -36,15 +48,9 @@ It was only a difference of 41 minutes of sedentary behaviour.
 
 Moderate to vigorous physical activity: >3hr screen children did 13 minutes less physical activity.
 
-There were no significant difference in the amount of time children spent sleeping.
 
-Children aged 2-3 spent an average 2.5 hours on screens per day across all devices. 
 
-The negative association was strongest between screen time (television and handheld devices) and moderate / vigorous physical activity.
 
-Television was the most commonly used device and accounted for the most screen time.
-
-Strengths:
 
 This study used a longitudinal design - meaning that they studied the same children when they were young toddlers and when they were in kindergarten, in order to get more accurate results based on change within each child, and not comparing different children to one another. This is definitely an advantage of this study over others, which often limit the results they can get from a study by comparing children who may differ from each other in a number of ways OTHER than what the study is trying to look at.
 
@@ -52,10 +58,12 @@ This study looked at data from just over **500 children**, which I believe to be
 
 
 
-Limitations:
+# The Limitations
 
-As is an issue with many studies, information on children's screen viewing is based on reports from parents. This type of reporting comes with risks for inaccuracy because parent's are unlikely to remember each individual minute or hour their child uses screens. Also, if their child has accessed a screen without their permission, or with another caregiver or parent that was not discussed with them, this would not be included in their report. For these reasons, we can't 100% trust parent-reported data. *In this study, parents were asked to report their child's screen time in 5-minute increments. Would you be able to accurately remember your child's screen usage every day this specifically? I wouldn't!*
+* ***Parent-reported data.*** As is an issue with many studies, information on children's screen viewing is based on reports from parents. This type of reporting comes with risks for inaccuracy because parent's are unlikely to remember each individual minute or hour their child uses screens. Also, if their child has accessed a screen without their permission, or with another caregiver or parent that was not discussed with them, this would not be included in their report. For these reasons, we can't 100% trust parent-reported data. In this study, parents were asked to report their child's screen time in 5-minute increments. Would you be able to accurately remember your child's screen usage every day this specifically? I wouldn't!
+* ***Activity measured over 1 week.*** Each child's movement behaviour was measured over a period of 7 days. While this is definitely a longer, more informational time period than measuring a child's movement in only an hour or a day, it is still possible that a child may have had a "lazy week", or may have been affected by other factors in their life at that time other than screen viewing. This one is a bit nit-picky, but still something to consider!
+* ***What about quality?*** In this study, the types of programs watched on television, types of video games played, and types of activities done on mobile devices were all unreported. This leaves a gap for some criticism. As I have mentioned a couple times, the **quality** of screentime that your child engages in is a very important consideration when we are talking about whether screen time is harmful. Whether your child is spending an hour watching an educational, interactive program with parents present and engaged is bound to have a very different effect than your child spending an hour watching The Simpsons! This distinction is important to remember when integrating screen time into your child's routine. While not all screen time is bad, there are certainly better forms of screen time than others.
 
-Each child's movement behaviour was measured over a period of 7 days. While this is definitely a longer, more informational time period than measuring a child's movement in only an hour or a day, it is still possible that a child may have had a "lazy week", or may have been affected by other factors in their life at that time other than screen viewing. 
+# The Takeaway
 
-In this study, the types of programs watched on television, types of video games played, and types of activities done on mobile devices were all unreported. This leaves a gap for some criticism. As I have mentioned a couple times, the **quality** of screentime that your child engages in is a very important consideration when we are talking about whether screen time is harmful. Whether your child is spending an hour watching an educational, interactive program with parents present and engaged is bound to have a very different effect than your child spending an hour watching The Simpsons! This distinction is important to remember when integrating screen time into your child's routine. While not all screen time is bad, there are certainly better forms of screen time than others.
+The reason for the results found in this study, the researchers suggest, is that screen time "reduces energy expenditure by displacing physical activity". This illustrates the point at which screen time can potentially become a problem for young children - when it is such a large part of their daily routine that physical activity, interaction, and other forms of development are replaced with screen time. There is an important distinction to be made here between any and all screen time being harmful for children's development (which is a very bold statement not likely to be true) and screen time having the potential to be harmful when it competes with, or replaces, other beneficial activites that your child needs to develop in a healthy manner. The main takeaway, as always, is to prioritize finding a healthy balance for your child between healthy screen time and physical activity, social interaction, and other activities that promote healthy habits and behaviours later in life.
