@@ -4,15 +4,15 @@ title: Does Screen Time Predict Sedentary Behaviour? (Singapore Study)
 date: 2020-06-01T18:50:58.757Z
 author: sagetrampleasure
 ---
-Earlier this year, a study was published by researchers in Singapore looking at the possible relationship between screen usage in young children (aged 2-3) and whether it can result in more sedentary behaviour later in life (kindergarten age). This study aimed to look at screentime behaviours in young children, since this time period is known to be an important developmental window for the development of habits, social skills, and motor skills.
+![Too much screen time in early childhood a harbinger of unhealthy ...](https://pubmiddleware.mims.com/resource/image/609F7343-B873-4242-906B-AB5F00EDA0FC/OriginalThumbnail/THUMBNAIL_shutterstock_1212230314.jpg)
 
-Link to study: https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30424-9/fulltext
+# The Study
 
+Earlier this year, a study was published by researchers in Singapore looking at the possible relationship between screen usage in young children (aged 2-3) and whether it can result in more sedentary behaviour later in life (kindergarten age). This study aimed to look at screentime behaviours in young children, since this time period is known to be an important developmental window for the development of habits, social skills, and motor skills. The study is summarized [here](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30424-9/fulltext). 
 
+First, this study collected parent reports of their child's time spent on screens, including television, computers, and handheld devices. 
 
-Each child's movement was measured using a device called an **accelerometer**. This device is able to track not only when, but also how much a child is moving their body, and converts this into data about their level of movement and activity.
-
-
+Then, the study collected data on how much each child engaged in light physical activity, heavier activity (called moderate-to-vigorous), and sedentary behaviour (which essentially represents time spent sitting, laying down, or being otherwise immobile). Each child's movement was measured using a device called an **accelerometer**. This device is able to track not only when, but also how much a child is moving their body, and converts this into data about their level of movement and activity.
 
 # The Findings
 
