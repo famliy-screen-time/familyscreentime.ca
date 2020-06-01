@@ -12,7 +12,7 @@ Earlier this year, a study was published by researchers in Singapore looking at 
 
 First, this study collected parent reports of their child's time spent on screens, including television, computers, and handheld devices. 
 
-Then, the study collected data on how much each child engaged in light physical activity, heavier activity (called moderate-to-vigorous), and sedentary behaviour (which essentially represents time spent sitting, laying down, or being otherwise immobile). Each child's movement was measured using a device called an **accelerometer**. This device is able to track not only when, but also how much a child is moving their body, and converts this into data about their level of movement and activity.
+Then, the study collected data on how much each child engaged in light physical activity, heavier activity (called moderate-to-vigorous), and sedentary behaviour (which essentially represents time spent sitting, laying down, or being otherwise immobile). Each child's movement was measured using a device called an accelerometer. This device is able to track not only when, but also how much a child is moving their body, and converts this into data about their level of movement and activity.
 
 # The Findings
 
