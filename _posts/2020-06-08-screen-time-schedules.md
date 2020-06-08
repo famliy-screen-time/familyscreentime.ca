@@ -8,7 +8,7 @@ A disappointing trend in the available guidelines for young children's screen us
 
 
 
-
+SCREEN TIME CHART to see how much your child really is using screens https://www.nhlbi.nih.gov/health/educational/wecan/downloads/screen-time-log.pdf
 
 
 
@@ -16,9 +16,27 @@ CREATE A FAMILY MEDIA PLAN: https://www.healthychildren.org/English/media/Pages/
 
 TIPS FOR CO-VIEWING SCREENS W/ YOUR KIDS: https://mediasmarts.ca/sites/mediasmarts/files/tip-sheet/tipsheet_co-viewing_with_kids.pdf
 
+TO SEE WHAT A MOVIE / PROGRAM IS RATED AND WHETHER IT IS AGE APPROPRIATE FOR YOUR CHILD, https://www.mpa-canada.org/canada-home-video-rating-system/
+
+
+
+WAYS YOU CAN USE SCREENS TO ENCOURAGE PHYS ED: https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity
+
+Here are some ways to combine screen use with physical activity:
+
+* Plan a walk with your child using a digital map.
+* Take photos of interesting things you see on a walk. You can look at them later and talk about what you saw, or you could draw a map and add the photos to it.
+* Video your child learning a new skill like hopping, riding a bike, or doing a new skateboard trick. You can replay the footage so your child can see himself learning.
+* Watch videos set in places you’d like to visit together. For example, you could watch a video set at a beach, then go to the local beach.
+* Choose videos or apps that encourage your child to dance and sing along, or games that involve moving, like dancing games or virtual sports simulators.
+* Bring your child’s screen time interests into off-screen play. For example, your child could dress up as a favourite TV character or use dolls and figurines to act out scenes.
+* Make use of natural breaks like advertisements or the end of game levels. For example, you could see how many star jumps you and your child can fit in before the ads finish.
+
 
 
 https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time
+
+
 
 Is your child:
 
