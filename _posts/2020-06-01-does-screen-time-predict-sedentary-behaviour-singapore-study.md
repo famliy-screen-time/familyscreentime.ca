@@ -20,7 +20,7 @@ The following results stood out in this study:
 
 * Children aged 2-3 spent an average 2.5 hours on screens per day across all devices. 
 * Television was the most commonly used device and accounted for the most screen time.
-* More time spent on screens was predictive of an average **41 minutes** more sedentary behaviour, **28 minutes** less light physical activity, and **13 minutes** less moderate-to-vigorous physical activity.
+* Children spending over 3 hours on screens was predictive of an average **41 minutes** more sedentary behaviour, **28 minutes** less light physical activity, and **13 minutes** less moderate-to-vigorous physical activity than children who spent less than 1 hour on screens.
 * The negative association was strongest between screen time (television and handheld devices) and moderate / vigorous physical activity.
 * There were no significant difference in the amount of time children spent sleeping.
 
