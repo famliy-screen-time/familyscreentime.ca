@@ -54,13 +54,11 @@ Fortunately, there are plenty of resources online with tips for healthy screen u
 
 * Create a Family Media Plan to create goals and rules for screen time using [this resource.](https://www.healthychildren.org/English/media/Pages/default.aspx#wizard)
 * Track your child's specific time spent on screens to learn just how much they are a part of their daily routine using [this resource.](https://www.nhlbi.nih.gov/health/educational/wecan/downloads/screen-time-log.pdf)
-* Avoid using screens an hour before bedtime.
-* Avoid during mealtimes
-* Set limits on after-school screen time – for example, one TV program, and then outside to play.
-* Have a few “screen free” days each week.
-* Talk to other adults who supervise your child about your limits on screen time. For example, if your child visits a friend’s house, you could ask the friend’s parent to let you know how much screen time your child has there. Then you can adjust how much screen time your child can have at home that day.
-* Limit how much TV or other screen activity is “in the background”.
-* Ask your child’s school, after school program or child care centre whether they have a plan for digital literacy and screen use.
+* Avoid using screens about an hour before bedtime, as well as during family mealtimes.
+* Set limits on after-school screen time (i.e. 20-30 mins of use before outside play).
+* Experiment with having a couple of “screen free” days during your week.
+* Limit "background screens" (i.e. TV on in the background).
+* Communicate your screen time limits with other adults whose children your child may visit, and with your child's school / daycare to help ensure that the limits are being followed outside of the home, or that home screen time is adjusted to make up for screens used elsewhere.
 
 ### Choosing the Right Screens
 
@@ -75,9 +73,8 @@ Fortunately, there are plenty of resources online with tips for healthy screen u
 
 ### Prioritizing What's Important
 
-* Make sure daily routines come first: face-to-face interactions, sleep, and physical activity.
-
-  Record favourite TV shows and watch them at times that don’t compete as much with active play – for example, when it’s dark.
+* Make sure non-screen aspects of your child's routine daily routines come first (i.e. face-to-face interaction, sleep, physical activity, self-directed or imaginative play).
+* If you are able, record programs to watch at times that don’t compete as much with active play (i.e. after it gets dark).
 
 
 
