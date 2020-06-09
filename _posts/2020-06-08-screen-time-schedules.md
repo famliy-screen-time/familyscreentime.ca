@@ -34,17 +34,17 @@ Keeping in mind CPA's general guidelines for usage, if you are adhering to recom
 
 ## Signs That Screen Use is Becoming Problematic
 
-On the other hand, 
+On the other hand, unhealthy or excessive use of screens does have the potential to become problematic for your child. Signs that the boundary between healthy and unhealthy is being crossed include:
 
-**How much is too much?**
+* Being grumpy or bored without access to screens
+* Acting out when limits are set on screen time
+* Interference with sleep or with social interactions
+* Interference with offline, real-life, imaginative play or interactions with family
+* Negative emotions after using screens
 
-Watch for signs that screen use is becoming a problem, such as:
+If your child displays any number of these signs, it may be an indication that it is time to step back from screens or to adapt the routine or type of screens your child uses for a healthier, more balanced approach.
 
-* Your child complains about being bored or unhappy without access to technology.
-* Oppositional behaviour when you set limits on screen time.
-* Screen use is interfering with sleep, school or face-to-face interactions.
-* Screen time is interfering with offline play, physical activities or socializing with friends and family.
-* Negative emotions after interacting online, playing video games or while texting.
+
 
 ## Making Screen Time Healthy & Beneficial
 
@@ -127,7 +127,7 @@ Tips from FRASER HEALTH: https://www.fraserhealth.ca/health-topics-a-to-z/childr
 
 ## Encouraging Physical Activity
 
-Many sources have emphasized the importance of encouraging motor development and physical activity as a priority over screen time for young children. This[ website](https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity) has put forth some tips on how we can utilize screens themselves to encourage activity in young children, including:
+Many sources have emphasized the importance of encouraging motor development and physical activity as a priority over screen time for young children. This[ article](https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity) has put forth some tips on how we can utilize screens themselves to encourage activity in young children, including:
 
 * Going for a walk with your child and taking photos to later look at, talk about, draw, etc.
 * Watching videos about places you then visit with your child (i.e. the beach).
@@ -139,12 +139,12 @@ Many sources have emphasized the importance of encouraging motor development and
 
 ## Modelling Healthy Screen Time
 
-As mentioned in a [previous blog post](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling), it is important to be a role model to your children with the way you use screens yourselv. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
+As mentioned in a [previous blog post](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling), it is important to be a role model to your children with the way you use screens yourself, and to remember that your child is watching you and learning from your behaviour about how, and when, screens are to be used. This [article](https://www.caringforkids.cps.ca/handouts/screen-time-and-digital-media), amonst many other great tips, recommends:
 
-**MODEL**healthy screen use, because your kids are watching you.
+* Rethinking your own screen-time habits and making sure they are in line with the habits you wish to see your child develop.
+* Adhering to the same “screen-free” times that you expect from your child (i.e. during meals, when socializing, etc.).
+* Turning screens off when you are not using them.
 
-* Review your own media habits: Plan time for hobbies, outdoor play and activities.
-* Encourage daily “screen-free” times, especially for family meals and socializing.
-* Turn screens off when not in use, including background TV.
 
-Managing your child's use of screens and media will be an ongoing challenge. But by developing household rules — and revisiting them as your child grows — you can help ensure a safe experience.
+
+Ideally, with this handful of more specific tips in your toolkit, you will be better equipped to put CPA recommendations and guidelines into action in everyday parenting!
