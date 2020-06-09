@@ -50,6 +50,18 @@ If your child displays any number of these signs, it may be an indication that i
 
 
 
+Create a Family Media Plan to create goals and rules for screen time using [this resource.](https://www.healthychildren.org/English/media/Pages/default.aspx#wizard)
+
+Track your child's specific time spent on screens to learn just how much they are a part of their daily routine using [this resource.](https://www.nhlbi.nih.gov/health/educational/wecan/downloads/screen-time-log.pdf)
+
+
+
+
+
+
+
+
+
 ## Encouraging Physical Activity
 
 Many sources have emphasized the importance of encouraging motor development and physical activity as a priority over screen time for young children. This[ article](https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity) has put forth some tips on how we can utilize screens themselves to encourage activity in young children, including:
