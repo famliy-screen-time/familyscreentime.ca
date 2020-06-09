@@ -16,6 +16,8 @@ The following is a compilation of resources provided by multiple sources on the 
 * Incorporating and encouraging physical activity through screens
 * Being a good role model for healthy screen usage
 
+
+
 ## Is Your Child's Screen Routine Healthy?
 
 On this issue, an [Australian parenting website](https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time) raises a very important point - instead of assuming that all screen time is unhealthy for children, it may be possible thatyour child's screen usage is in line with a healthy and balanced lifestyle. To find out if this is the case, ask yourself if your child is:
