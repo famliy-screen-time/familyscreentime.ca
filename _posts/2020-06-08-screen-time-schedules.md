@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screen Time Schedules
+title: Putting Screen Time Guidelines into Action
 date: 2020-06-08T20:46:03.635Z
 author: sagetrampleasure
 ---
