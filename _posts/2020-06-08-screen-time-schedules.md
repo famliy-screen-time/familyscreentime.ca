@@ -16,7 +16,15 @@ The following is a compilation of resources provided by multiple sources on the 
 * Incorporating and encouraging physical activity through screens
 * Being a good role model for healthy screen usage
 
+## Is Your Child's Screen Routine Healthy?
 
+## Signs That Screen Use is Becoming Problematic
+
+## Making Screen Time Healthy & Beneficial
+
+## Encouraging Physical Activity
+
+## Modelling Healthy Screen Time
 
 
 
