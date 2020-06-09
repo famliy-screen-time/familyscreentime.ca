@@ -4,9 +4,7 @@ title: Putting Screen Time Guidelines into Action
 date: 2020-06-08T20:46:03.635Z
 author: sagetrampleasure
 ---
-But the question remains - how do we put these guidelines into practice?
-
-
+We have all either seen or heard of the Canadian Paediatric Society's overarching recommendations for healthy screen usage as it pertains to young children. But even with these resources available, the question remains - how do we put these guidelines into practice?
 
 A disappointing trend in the available guidelines for young children's screen usage is that the focus of these recommendations is almost exclusively on what to do and what not to do - "no screens before age 2", "no more than 1 hour per day", "choose healthy programs", "set a healthy schedule". What is missing from these recommendations is **how** parents can go about accomplishing and adhering to these guidelines. 
 
