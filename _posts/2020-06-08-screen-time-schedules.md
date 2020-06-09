@@ -18,23 +18,23 @@ The following is a compilation of resources provided by multiple sources on the 
 
 ## Is Your Child's Screen Routine Healthy?
 
-https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time
+On this issue, an [Australian parenting website](https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time) raises a very important point - instead of assuming that all screen time is unhealthy for children, it may be possible thatyour child's screen usage is in line with a healthy and balanced lifestyle. To find out if this is the case, ask yourself if your child is:
 
-Is your child:
+* sleeping a healthy amount of time with no issues
+* physically healthy and developing
+* engaged in daycare / learning activities
+* connecting with other children
+* enjoying other forms of play aside from screens
+* learning and enhjoying themselves while using screens
+* engaging in quality forms of screen time
 
-* sleeping enough?
-* physically healthy?
-* engaged with school?
-* connecting socially with family and friends, online and offline?
-* enjoying a variety of hobbies and interests?
-* having fun and learning while using screens?
-* using quality content?
+Keeping in mind CPA's general guidelines for usage, if you are adhering to recommendations as best as you can and answered **"yes"** to most or all of these questions, it is suggested that your child is likely using screens in a healthy and balanced manner! Yay!
 
-If you**answer yes to most or all of these questions**, your child is probably using screens in a balanced way as part of a healthy lifestyle.
+
 
 ## Signs That Screen Use is Becoming Problematic
 
-
+On the other hand, 
 
 **How much is too much?**
 
@@ -104,10 +104,9 @@ Whenever possible, make screen time an activity you and your child do together. 
 **MANAGE**screen use through plans, rules, and limits.
 
 * Be present and engaged when screens are used and, whenever possible, watch together and talk about the content.
-* Discourage media multitasking, especially during homework.
 * Learn about[parental controls and privacy settings](http://mediasmarts.ca/sites/mediasmarts/files/tip-sheet/tipsheet_parental_controls_0.pdf).
-* Obtain your child's or teen’s passwords and login information for devices and social media accounts, to help ensure safety online and to follow online profiles and activities if concerns arise.
-* Speak with children and teens about acceptable and unacceptable online behaviours.
+
+
 
 Encourage**MEANINGFUL**screen use, so that time spent online serves a purpose.
 
@@ -123,10 +122,6 @@ Encourage**MEANINGFUL**screen use, so that time spent online serves a purpose.
 
 Tips from FRASER HEALTH: https://www.fraserhealth.ca/health-topics-a-to-z/children-and-youth/physical-activity-for-children/screen-time-for-children#.Xt7EYi0ZPOQ
 
-
-
-*
-* Turn off background TV when no one is watching.
 * Avoid using screens an hour before bedtime.
 * Choose activities such as playing outdoors, reading or crafting over screens.
 
@@ -144,9 +139,7 @@ Many sources have emphasized the importance of encouraging motor development and
 
 ## Modelling Healthy Screen Time
 
-
-
-Be a good role model with your own screen time. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
+As mentioned in a [previous blog post](https://familyscreentime.ca/2020-02-24-the-importance-of-modelling), it is important to be a role model to your children with the way you use screens yourselv. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
 
 **MODEL**healthy screen use, because your kids are watching you.
 
