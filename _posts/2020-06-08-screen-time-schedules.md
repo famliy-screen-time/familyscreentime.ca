@@ -18,25 +18,40 @@ The following is a compilation of resources provided by multiple sources on the 
 
 ## Is Your Child's Screen Routine Healthy?
 
+https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time
+
+Is your child:
+
+* sleeping enough?
+* physically healthy?
+* engaged with school?
+* connecting socially with family and friends, online and offline?
+* enjoying a variety of hobbies and interests?
+* having fun and learning while using screens?
+* using quality content?
+
+If you**answer yes to most or all of these questions**, your child is probably using screens in a balanced way as part of a healthy lifestyle.
+
 ## Signs That Screen Use is Becoming Problematic
+
+
+
+**How much is too much?**
+
+Watch for signs that screen use is becoming a problem, such as:
+
+* Your child complains about being bored or unhappy without access to technology.
+* Oppositional behaviour when you set limits on screen time.
+* Screen use is interfering with sleep, school or face-to-face interactions.
+* Screen time is interfering with offline play, physical activities or socializing with friends and family.
+* Negative emotions after interacting online, playing video games or while texting.
 
 ## Making Screen Time Healthy & Beneficial
 
-## Encouraging Physical Activity
+**Work schedules**
 
-## Modelling Healthy Screen Time
-
-
-
-
-
-
-
-
-
-
-
-When it comes to monitoring how much and which types of screens your child is using, 
+Busy work schedules can also get in the way of finding time to play outdoors with your children.\
+It might be helpful to talk with other parents or people in your neighbourhood about helping each other overcome this. For example, you could take turns to supervise a group of children playing actively outside on different days.
 
 
 
@@ -52,39 +67,18 @@ TO SEE WHAT A MOVIE / PROGRAM IS RATED AND WHETHER IT IS AGE APPROPRIATE FOR YOU
 
 
 
-WAYS YOU CAN USE SCREENS TO ENCOURAGE PHYS ED: https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity
 
-Here are some ways to combine screen use with physical activity:
 
-* Take photos of interesting things you see on a walk. You can look at them later and talk about what you saw, or you could draw a map and add the photos to it.
-* Video your child learning a new skill like hopping, riding a bike, or doing a new skateboard trick. You can replay the footage so your child can see himself learning.
-* Watch videos set in places you’d like to visit together. For example, you could watch a video set at a beach, then go to the local beach.
-* Choose videos or apps that encourage your child to dance and sing along, or games that involve moving, like dancing games or virtual sports simulators.
-* Bring your child’s screen time interests into off-screen play. For example, your child could dress up as a favourite TV character or use dolls and figurines to act out scenes.
-* Make use of natural breaks like advertisements or the end of game levels. For example, you could see how many star jumps you and your child can fit in before the ads finish.
+https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952
 
-https://raisingchildren.net.au/toddlers/play-learning/screen-time-media/screen-time
+* Preview programs, games and apps before allowing your child to view or play with them. Organizations such as Common Sense Media can help you determine what's appropriate. Better yet, watch, play or use them with your child.
+* Seek out interactive options that engage your child, rather than those that just require pushing and swiping or staring at the screen.
+* Use parental controls to block or filter internet content.
+* Make sure your child is close by during screen time so that you can supervise his or her activities.
 
-Is your child:
 
-* sleeping enough?
-* physically healthy?
-* engaged with school?
-* connecting socially with family and friends, online and offline?
-* enjoying a variety of hobbies and interests?
-* having fun and learning while using screens?
-* using quality content?
 
-If you**answer yes to most or all of these questions**, your child is probably using screens in a balanced way as part of a healthy lifestyle.
 
-Tips from FRASER HEALTH: https://www.fraserhealth.ca/health-topics-a-to-z/children-and-youth/physical-activity-for-children/screen-time-for-children#.Xt7EYi0ZPOQ
-
-Be a good role model with your own screen time. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
-
-*
-* Turn off background TV when no one is watching.
-* Avoid using screens an hour before bedtime.
-* Choose activities such as playing outdoors, reading or crafting over screens.
 
 Tips from HEALTHY FAMILIES BC: https://www.healthyfamiliesbc.ca/home/articles/screen-time-and-obstacles-physical-activity-children
 
@@ -94,10 +88,7 @@ Tips from HEALTHY FAMILIES BC: https://www.healthyfamiliesbc.ca/home/articles/sc
 * Talk to other adults who supervise your child about your limits on screen time. For example, if your child visits a friend’s house, you could ask the friend’s parent to let you know how much screen time your child has there. Then you can adjust how much screen time your child can have at home that day.
 * Limit how much TV or other screen activity is “in the background”. If the TV is on in the background, it can still interfere with socializing and concentration.
 
-**Work schedules**
 
-Busy work schedules can also get in the way of finding time to play outdoors with your children.\
-It might be helpful to talk with other parents or people in your neighbourhood about helping each other overcome this. For example, you could take turns to supervise a group of children playing actively outside on different days.
 
 FROM: Caring for kids = https://www.caringforkids.cps.ca/handouts/screen-time-and-young-children
 
@@ -126,29 +117,41 @@ Encourage**MEANINGFUL**screen use, so that time spent online serves a purpose.
 * Be a part of your children’s media lives. For example, join in during video game play and ask about their experiences and encounters online.
 * Ask your child’s school, after school program or child care centre whether they have a plan for digital literacy and screen use.
 
+\
+
+
+
+Tips from FRASER HEALTH: https://www.fraserhealth.ca/health-topics-a-to-z/children-and-youth/physical-activity-for-children/screen-time-for-children#.Xt7EYi0ZPOQ
+
+
+
+*
+* Turn off background TV when no one is watching.
+* Avoid using screens an hour before bedtime.
+* Choose activities such as playing outdoors, reading or crafting over screens.
+
+## Encouraging Physical Activity
+
+Many sources have emphasized the importance of encouraging motor development and physical activity as a priority over screen time for young children. This[ website](https://raisingchildren.net.au/pre-teens/healthy-lifestyle/physical-activity/screen-time-physical-activity) has put forth some tips on how we can utilize screens themselves to encourage activity in young children, including:
+
+* Going for a walk with your child and taking photos to later look at, talk about, draw, etc.
+* Watching videos about places you then visit with your child (i.e. the beach).
+* Selecting screens for your child that encourage activity such as singing, dancing, and moving in general (i.e. interactive dancing games or virtual sports games such as Wii Sports).
+* Transfering your child's favorite show into real-life (i.e. dressing up as a favorite character, or acting out scenes from the show).
+* Taking breaks between screen usage to be active (i.e. jumping jacks during commercials together).
+
+
+
+## Modelling Healthy Screen Time
+
+
+
+Be a good role model with your own screen time. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
+
 **MODEL**healthy screen use, because your kids are watching you.
 
 * Review your own media habits: Plan time for hobbies, outdoor play and activities.
-* Never text or use headphones while driving, walking, jogging or biking.
 * Encourage daily “screen-free” times, especially for family meals and socializing.
 * Turn screens off when not in use, including background TV.
-* Avoid screens at least 1 hour before bedtime, and keep recreational screens out of bedrooms.
-
-**How much is too much?**
-
-Watch for signs that screen use is becoming a problem, such as:
-
-* Your child complains about being bored or unhappy without access to technology.
-* Oppositional behaviour when you set limits on screen time.
-* Screen use is interfering with sleep, school or face-to-face interactions.
-* Screen time is interfering with offline play, physical activities or socializing with friends and family.
-* Negative emotions after interacting online, playing video games or while texting.
-
-https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952
-
-* Preview programs, games and apps before allowing your child to view or play with them. Organizations such as Common Sense Media can help you determine what's appropriate. Better yet, watch, play or use them with your child.
-* Seek out interactive options that engage your child, rather than those that just require pushing and swiping or staring at the screen.
-* Use parental controls to block or filter internet content.
-* Make sure your child is close by during screen time so that you can supervise his or her activities.
 
 Managing your child's use of screens and media will be an ongoing challenge. But by developing household rules — and revisiting them as your child grows — you can help ensure a safe experience.
