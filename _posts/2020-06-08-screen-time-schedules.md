@@ -25,7 +25,7 @@ On this issue, an [Australian parenting website](https://raisingchildren.net.au/
 * engaged in daycare / learning activities
 * connecting with other children
 * enjoying other forms of play aside from screens
-* learning and enhjoying themselves while using screens
+* learning and enjoying themselves while using screens
 * engaging in quality forms of screen time
 
 Keeping in mind CPA's general guidelines for usage, if you are adhering to recommendations as best as you can and answered **"yes"** to most or all of these questions, it is suggested that your child is likely using screens in a healthy and balanced manner! Yay!
@@ -48,55 +48,36 @@ If your child displays any number of these signs, it may be an indication that i
 
 ## Making Screen Time Healthy & Beneficial
 
+Fortunately, there are plenty of resources online with tips for healthy screen usage informed by parents' experiences while following general guidelines. Articles from [Fraser Health](https://www.fraserhealth.ca/health-topics-a-to-z/children-and-youth/physical-activity-for-children/screen-time-for-children#.Xt7EYi0ZPOQ), [Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952), [Healthy Families BC](< https://www.healthyfamiliesbc.ca/home/articles/screen-time-and-obstacles-physical-activity-children>), and [Caring for Kids](https://www.caringforkids.cps.ca/handouts/screen-time-and-young-children) are just a handful among the many available with a quick search! Feel free to give these articles a read for more information. From all of these articles, however, a few trends emerged that can be seen as **key suggestions** for making screen time healthy...
 
+### Setting Limits
 
-Create a Family Media Plan to create goals and rules for screen time using [this resource.](https://www.healthychildren.org/English/media/Pages/default.aspx#wizard)
-
-Track your child's specific time spent on screens to learn just how much they are a part of their daily routine using [this resource.](https://www.nhlbi.nih.gov/health/educational/wecan/downloads/screen-time-log.pdf)
-
-Wherever possible, engage in your child's screen time together and interact with them throughout - a guide for co-viewing screens with your child can be found [here.](https://mediasmarts.ca/sites/mediasmarts/files/tip-sheet/tipsheet_co-viewing_with_kids.pdf)
-
-
-
-
-
-To work around busy work schedules, you could take turns to supervise a group of children playing actively outside on different days.
-
-https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952
-
-* Preview programs, games and apps before allowing your child to view or play with them.
-* Seek out interactive options that engage your child, rather than those that just require pushing and swiping or staring at the screen.
-* Use parental controls to block or filter internet content.
-* Make sure your child is close by during screen time so that you can supervise his or her activities.
-
-Tips from HEALTHY FAMILIES BC: https://www.healthyfamiliesbc.ca/home/articles/screen-time-and-obstacles-physical-activity-children
-
-* Set limits on after-school screen time – for example, one TV program, and then outside to play.
-* Have a few “screen free” days each week.
-* Record favourite TV shows and watch them at times that don’t compete as much with active play – for example, when it’s dark.
-* Talk to other adults who supervise your child about your limits on screen time. For example, if your child visits a friend’s house, you could ask the friend’s parent to let you know how much screen time your child has there. Then you can adjust how much screen time your child can have at home that day.
-* Limit how much TV or other screen activity is “in the background”.
-
-FROM: Caring for kids = https://www.caringforkids.cps.ca/handouts/screen-time-and-young-children
-
-**How do I choose the right apps, videos or programs for my child?**
-
-Whenever possible, make screen time an activity you and your child do together. Watch with your child and talk about what you’re seeing. To ensure quality content:
-
-* Choose educational, age-appropriate and interactive programs and apps. Educational apps have a clear learning goal and encourage participation**.**
-* Make sure your child watches programs you’re familiar with.
-* Use a media rating system like [this one](https://www.mpa-canada.org/canada-home-video-rating-system/) to choose what programs or movies are age – and stage – appropriate for your child.
-
-Encourage**MEANINGFUL**screen use, so that time spent online serves a purpose.
-
-* Make sure daily routines come first: face-to-face interactions, sleep, and physical activity.
-* Be present and engaged when screens are used and, whenever possible, watch together and talk about the content.
-* Ask your child’s school, after school program or child care centre whether they have a plan for digital literacy and screen use.
-
-Tips from FRASER HEALTH: https://www.fraserhealth.ca/health-topics-a-to-z/children-and-youth/physical-activity-for-children/screen-time-for-children#.Xt7EYi0ZPOQ
-
+* Create a Family Media Plan to create goals and rules for screen time using [this resource.](https://www.healthychildren.org/English/media/Pages/default.aspx#wizard)
+* Track your child's specific time spent on screens to learn just how much they are a part of their daily routine using [this resource.](https://www.nhlbi.nih.gov/health/educational/wecan/downloads/screen-time-log.pdf)
 * Avoid using screens an hour before bedtime.
 * Avoid during mealtimes
+* Set limits on after-school screen time – for example, one TV program, and then outside to play.
+* Have a few “screen free” days each week.
+* Talk to other adults who supervise your child about your limits on screen time. For example, if your child visits a friend’s house, you could ask the friend’s parent to let you know how much screen time your child has there. Then you can adjust how much screen time your child can have at home that day.
+* Limit how much TV or other screen activity is “in the background”.
+* Ask your child’s school, after school program or child care centre whether they have a plan for digital literacy and screen use.
+
+### Choosing the Right Screens
+
+* Choose educational and interactive programs and apps over ones that only require watching or swiping.
+* Use a media rating system like [this one](https://www.mpa-canada.org/canada-home-video-rating-system/) to choose what programs or movies are age – and stage – appropriate for your child.
+
+### Engagement
+
+* Wherever possible, engage in your child's screen time together and interact with them throughout - a guide for co-viewing screens with your child can be found [here.](https://mediasmarts.ca/sites/mediasmarts/files/tip-sheet/tipsheet_co-viewing_with_kids.pdf)
+* Preview programs, games and apps before allowing your child to view or play with them.
+* Make sure your child is close by during screen time so that you can supervise his or her activities.
+
+### Prioritizing What's Important
+
+* Make sure daily routines come first: face-to-face interactions, sleep, and physical activity.
+
+  Record favourite TV shows and watch them at times that don’t compete as much with active play – for example, when it’s dark.
 
 
 
@@ -109,6 +90,8 @@ Many sources have emphasized the importance of encouraging motor development and
 * Selecting screens for your child that encourage activity such as singing, dancing, and moving in general (i.e. interactive dancing games or virtual sports games such as Wii Sports).
 * Transfering your child's favorite show into real-life (i.e. dressing up as a favorite character, or acting out scenes from the show).
 * Taking breaks between screen usage to be active (i.e. jumping jacks during commercials together).
+
+We also recognize that parent schedules are often busy and may not have a large amount of room for physical play, introducing the need for screens as entertainment. To work around busy work schedules, a cooperative effort with other parents of young children may be possible - even including taking turns supervising neighborhood activities outside on different days.
 
 
 
