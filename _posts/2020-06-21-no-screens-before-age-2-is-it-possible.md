@@ -13,3 +13,15 @@ Aside from blog posts or personal anecdotes from other parents who are attemptin
 In this 2020 journal article, a a recent UBC PhD graduate and mother documented her struggle with the "no screen" recommendation during her child's first 18 months of life. This article presents a very unique angle on the issue in that it combines a researcher's perspective with the lived experiences of a parent to a young child. 
 
 If you have 22 pages worth of time to spare, [you can read the full article here](https://journals-sagepub-com.ezproxy.library.ubc.ca/doi/10.1177/1468798420926623). If not, here is a short summary of some of the article's most interesting points.
+
+
+
+
+
+
+
+
+
+
+
+The main takeaway here is: if you are having trouble as a parent trying to reconcile -????-  you are not alone!
