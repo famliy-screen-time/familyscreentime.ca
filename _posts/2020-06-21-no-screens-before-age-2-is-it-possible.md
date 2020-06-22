@@ -22,8 +22,6 @@ Throughout her son's first 18 months of life, the author noted that she was able
 
 While some AAP recommendations were followed, the author admitted that a larger amount of recommendations did not prove to be realistic in her experience as a 21st century mother, and were less than adhered to. *Quick Note: The author emphasized that her child was born into what they called a "high technology" household, where both parents owned and used screens regularly - and that they did not change their own practices once their son was born.* 
 
-
-
 The biggest "rule-breakage" happened when the author's child was 7 months old, and watched a TV program with his grandparents. Obviously, the "no screens before 2" rule was not looking like it would pan out! Aside from the child's grandparents, the author also admitted to allowing her child access to screens before the AAP's recommendation:
 
 * The author would watch Netflix with her infant son in the "sleepless" baby stage (although this doesn't necessarily mean that he was paying attention to the screen).
@@ -33,56 +31,20 @@ The biggest "rule-breakage" happened when the author's child was 7 months old, a
 * The TV would periodically be on in the background, with one parent watching sports while the other parent played with the young child.
 * Shortly after the 1-year mark, the author began regularly giving her son a phone that was disconnected from mobile and WiFi services, as well as any internet apps. On this phone, he learned to use the camera app independently and to navigate the device on his own.
 
-## Digital Literacy
-
-That last point about the author's son getting the opportunity to learn how to independently navigate a device brings up an important question - 
-
 ## Guilt
 
+As you might expect, the author's experience of "the disconnect between the AAP's screen time statements and \[her] everyday way of life" brought with it a lot of tension and guilt, as she struggled with whether she was making the "right decision" in allowing her son early access to screens.
 
+This guilt came from reading motherhood and parenting sources, cautionary news articles, and recommendations that generally implied that her allowing her child access to screens was "wrong" or "damaging". The author also noted that she had constant access to competing and even totally opposite statements, research, or pieces of advice can cause tension and confusion for parents who only want to do the right thing for their child.
 
+A unique type of tension also appeard for the author - tension between the her identity as a researcher, who had argued before for digital technology to be used in early education, and as a mother, who still found herself hesitant to include screens in her son's learning.
 
+The main theme throughout these moments of guilt was an inconsistency between what the author had been directed to do by various associations and what she was finding was actually possible (or not possible) to accomplish in her real lived experience. These types of feelings are most likely quite familiar!
 
+## Takeaways
 
+The main takeaway here is: if you are having trouble as a parent or caretaker trying to reconcile screen use guidelines with the realities of parenthood or childcare, you are not alone! 
 
-Digital Literacy
+For many families, the simple truth is that screens cannot be completely removed from a home environment. Consequently, it is almost impossible to ensure that your child will have absolutely zero "run-ins" with screens until they reach 18 months, let alone 2 years of age. 
 
-In the article, the author admits that there is a general "strong belief that infants and toddlers cannot learn from digital technology in the same way they learn with parents or caregivers". While this may be true - the learning may not occur in the exact same manner - the author suggests that use of screens may be encouraging a whole new type of learning that will become more and more useful as we continue to modernize our world.
-
-The author suggests that instead of screen use impeding learning by happening in place of "traditional" forms of education, by viewing and interacting with screens with her child, he was learning in this way as well.
-
-Children implicitly learn to use digital devices in theirhomes
-
-Developing literacy skills while engaging in activities they really enjoyed.
-
-"Techno-literacies" = literary events and practices that are mediated by new technologie
-
-Children are learinng skills in digital literacy, skills that will undoubtedly come in very handy as they grow and enter society. 
-
-
-
-Guilt
-
-Tension between the author's identity as a researcher, who had argued before for digital technology to be used in early education, and as a mother, who still found herself hesitant to include screens in her son's learning.
-
-Guilt from reading motherhood and parenting sources, especially cautionary news articles.
-
-Although recommendations have changed and become a little more lenient, it is still the main mesdsage of most policies that screen use should be discouraged as a whole.
-
-Access to competing and even totally opposite statements, research, or pieces of advice can cause rtension and congusion for parents who only want to do the right thing for theirt child.
-
-Guilt that when her and her child were using SnapChat or the camera app together, they could potentially be doing something more "productive"
-
-Grappled with whether she was making the "right decision" in allowing her son technology access.
-
-
-
-
-
-
-
-The main takeaway here is: if you are having trouble as a parent or caretaker trying to reconcile -????-  you are not alone! 
-
-
-
-For many families, the simple truth is that screens cannot be completel removed from a home environment. Consequently, it is almost impossible to ensure that your child will have absolutely zero "run-ins" with screens until they reach 18 months, let alone 2 years of age.
+As more parents and researchers like the author of this article come out and publicly admit that they are not able to follow all guidelines and recommendations to a tee in their experiences with parenthood, I am hopeful that we will slowly inch away from an environment of guilt and tension when it comes to young children and screen use, and towards an environment of openness, acceptance, and learning.
