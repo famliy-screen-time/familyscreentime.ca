@@ -22,37 +22,26 @@ Throughout her son's first 18 months of life, the author noted that she was able
 
 While some AAP recommendations were followed, the author admitted that a larger amount of recommendations did not prove to be realistic in her experience as a 21st century mother, and were less than adhered to. *Quick Note: The author emphasized that her child was born into what they called a "high technology" household, where both parents owned and used screens regularly - and that they did not change their own practices once their son was born.* 
 
+
+
 The biggest "rule-breakage" happened when the author's child was 7 months old, and watched a TV program with his grandparents. Obviously, the "no screens before 2" rule was not looking like it would pan out! Aside from the child's grandparents, the author also admitted to allowing her child access to screens before the AAP's recommendation:
 
-*
-
-
-
-
+* The author would watch Netflix with her infant son in the "sleepless" baby stage (although this doesn't necessarily mean that he was paying attention to the screen).
+* At 12 months, the author's son was allowed access to children's TV shows and movies  - although this screen time was broken up between other activities such as reading or outside time.
+* Smartphones were regularly used in the home, and often the author's son observed this use and would even periodically get a hold of the devices. In an example, the author discussed how her son used a toy telephone to show that he knew phones were for "texting" as well as calling.
+* The author's son often interacted with the iPhone's camera app, and by 12 months he could take photos. The author and her son would also interact with SnapChat filters together.
+* The TV would periodically be on in the background, with one parent watching sports while the other parent played with the young child.
+* Shortly after the 1-year mark, the author began regularly giving her son a phone that was disconnected from mobile and WiFi services, as well as any internet apps. On this phone, he learned to use the camera app independently and to navigate the device on his own.
 
 ## Digital Literacy
+
+That last point about the author's son getting the opportunity to learn how to independently navigate a device brings up an important question - 
 
 ## Guilt
 
 
 
-Mother would watch Netflix with her son in the sleepless nights baby stage (not that he was paying attention)
 
-Child was allowed access to children's TV shows and movies at 12 months - although this time was broken up with other activities such as reading or outside time
-
-Smartphones were regularly used in the home, and often times the son observed this use, got a hold of the devices. In an example, the author discussed how her son used a toy telephone to show that he knew phones were for "texting" as well as calling.
-
-Interacted with the camera app, by 1 year he could take photos, used snapchat filters together
-
-AAP recommends avoiding "using screens as the only way to calm your child" - while it wasn't the only way, author did use it sometimes.  - shortly after one year, began handing her son a phone to calm him down while she was changing him and during haircuts
-
-Would regularly give the son a phone disconected from mobile and Wifi services, or any internet apps. On this phone he learned to use the camera app independently and to navigate the device on his own (intro to DIGITAL LITERACY)
-
-
-
-TV was most frequently used device
-
-While one parent was interacting with their son, it would o ften be the case that the TV was on for the other parent to watch sports. - this type of background tv was cited by AAP as a potential distraction to play
 
 
 
