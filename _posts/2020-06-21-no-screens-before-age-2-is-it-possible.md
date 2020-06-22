@@ -37,7 +37,7 @@ As you might expect, the author's experience of "the disconnect between the AAP'
 
 This guilt came from reading motherhood and parenting sources, cautionary news articles, and recommendations that generally implied that her allowing her child access to screens was "wrong" or "damaging". The author also noted that she had constant access to competing and even totally opposite statements, research, or pieces of advice can cause tension and confusion for parents who only want to do the right thing for their child.
 
-A unique type of tension also appeard for the author - tension between the her identity as a researcher, who had argued before for digital technology to be used in early education, and as a mother, who still found herself hesitant to include screens in her son's learning.
+A unique type of tension also appeared for the author - tension between the her identity as a researcher, who had argued before for digital technology to be used in early education, and as a mother, who still found herself hesitant to include screens in her son's learning.
 
 The main theme throughout these moments of guilt was an inconsistency between what the author had been directed to do by various associations and what she was finding was actually possible (or not possible) to accomplish in her real lived experience. These types of feelings are most likely quite familiar!
 
