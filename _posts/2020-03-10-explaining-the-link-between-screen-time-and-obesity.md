@@ -3,6 +3,7 @@ layout: post
 title: Explaining the Link Between Screen Time and Obesity
 date: 2020-03-10T01:09:03.900Z
 author: sagetrampleasure
+category: blog
 ---
 ![Toddler eating watching tv](https://ak5.picdn.net/shutterstock/videos/21122965/thumb/1.jpg)
 
@@ -14,7 +15,7 @@ A large amount of research has established a clear link between screen usage and
 
 In 2017, an international non-profit organization called *Children and Screens: Institute of Digital Media and Child Development* put out a compilation of recent research about the relationship between screen usage and child obesity, based on an article by the [American Academy of Pediatrics. ](https://pediatrics.aappublications.org/content/pediatrics/140/Supplement_2/S97.full.pdf)
 
-This research included studies establishing a positive correlation between child screen usage and increased risk of obesity - meaning that higher levels of screen use were related to higher obesity risk. Correlational research is not completely trustworthy, however, because it does not mean that one thing necessarily caused the other. This correlation between screen use and obesity could mean that a) screen use caused obesity, b) obesity caused screen use. or c) something else caused both of these things. 
+This research included studies establishing a positive correlation between child screen usage and increased risk of obesity - meaning that higher levels of screen use were related to higher obesity risk. Correlational research is not completely trustworthy, however, because it does not mean that one thing necessarily caused the other. This correlation between screen use and obesity could mean that a) screen use caused obesity, b) obesity caused screen use. or c) something else caused both of these things.
 
 However, not only did the research find a correlation between screen use and obesity, but a few "randomized controlled trials"—which is another name for a powerful study design that is able to establish cause-and-effect relationships—found that overall, higher levels of screen time led to higher BMI's in young children.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Family Screen Time Blog
+title: Family Screen Time Results
 ---
 
 <h1>{{ page.title }}</h1>
 
-{% assign blog_posts = site.posts | where: 'category', 'blog' %}
-{% for post in blog_posts %}
+{% assign results_posts = site.posts | where: 'category', 'results' %}
+{% for post in results_posts %}
   <div class="postcard">
     <div class="postcard-wrapper">
       <div class="postcard-meta">

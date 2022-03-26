@@ -3,8 +3,9 @@ layout: post
 title: WHO Guidelines on Screen Time
 date: 2020-02-06T20:49:13.770Z
 author: emmasmith
+category: blog
 ---
-In April 2019, the World Health Organization (WHO) released [guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age](https://www.who.int/news-room/detail/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more), which provide recommendations for daily time spent in each of these areas. 
+In April 2019, the World Health Organization (WHO) released [guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age](https://www.who.int/news-room/detail/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more), which provide recommendations for daily time spent in each of these areas.
 
 The recommendations for sedentary behaviour specifically address screen time, but just hearing the recommendations by themselves without the broader context of the guidelines can be misleading. What can parents take away from these guidelines?
 
@@ -22,7 +23,7 @@ The Guideline Development Group, which oversaw the development of the guidelines
 
 In addition to the low quality evidence, it is important to consider these recommendations in the context of the overall goal of the guidelines: encouraging a healthy level of physical activity in children. In this context, screen time is important only to the extent that it prevents physical activity. The recommendations also specify that children should not be restrained for over an hour at a time (such as in strollers or car seats).
 
-There is also a note in the guidelines that sedentary (seated) behaviours are not entirely negative. Many activities, such as playing with blocks, music, and reading storybooks, are sedentary, but are especially important for brain development. 
+There is also a note in the guidelines that sedentary (seated) behaviours are not entirely negative. Many activities, such as playing with blocks, music, and reading storybooks, are sedentary, but are especially important for brain development.
 
 Sedentary screen time could also have developmental benefits. For example, high quality television programming has been associated with improved language aquisition in young children. Such activities are best enjoyed alongside an engaged parent or caregiver.
 

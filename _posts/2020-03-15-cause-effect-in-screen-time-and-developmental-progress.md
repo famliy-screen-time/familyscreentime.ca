@@ -3,6 +3,7 @@ layout: post
 title: Cause & Effect in Screen Time and Developmental Progress
 date: 2020-03-15T03:07:14.925Z
 author: emmasmith
+category: blog
 ---
 Early childhood is a key developmental stage. As such, it is important to know and understand factors that promote (or harm) normal, healthy development. Although several studies have shown that higher screen time in children is related to poorer developmental outcomes, there is little evidence demonstrating the direction of that relationship. In other words, it is unclear whether: (a) screen time causes developmental delays, (b) developmental delays cause screen time, (c) some other external factor causes both developmental delays and screen time, or (d) all of the above. A [recent study](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2722666?guestAccessKey=879c6c87-141e-48f8-8c95-4d684600a644) found evidence for a directional relationship between screen time and developmental delays. How did the authors come to this conclusion?
 
@@ -34,9 +35,9 @@ The authors acknowledged this limitation. They even demonstrated that both scree
 
 ## Conclusion
 
-What is the takeaway from this study? There is evidence to show that screen time has the potential to be harmful to child development. However, this is a complicated relationship that involves many factors, not just screen time by itself. 
+What is the takeaway from this study? There is evidence to show that screen time has the potential to be harmful to child development. However, this is a complicated relationship that involves many factors, not just screen time by itself.
 
-This study does not suggest that screen time is inherently bad. Instead, parents should be mindful of how their children are interacting with technology. 
+This study does not suggest that screen time is inherently bad. Instead, parents should be mindful of how their children are interacting with technology.
 
 The [BBC](https://www.bbc.com/news/health-47026834) article that reported on the study points out that different national child research groups, including in the US, Canada, and the UK, have provided different guidelines for screen time among young children. This shows how research on the effects of screen time is still ongoing, but it can be confusing for parents who want straightforward advice. [The Royal College of Paediatrics and Child Health](https://www.rcpch.ac.uk/sites/default/files/2018-12/rcpch_screen_time_guide_-_final.pdf) in the UK does not suggest any hard limits on screen time based on age or hours per day, but it does offer some open-ended questions for families to consider:
 

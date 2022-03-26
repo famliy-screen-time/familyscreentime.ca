@@ -3,14 +3,15 @@ layout: post
 title: Does Screen Time Predict Sedentary Behaviour? (Singapore Study)
 date: 2020-06-01T18:50:58.757Z
 author: sagetrampleasure
+category: blog
 ---
 ![Too much screen time in early childhood a harbinger of unhealthy ...](https://pubmiddleware.mims.com/resource/image/609F7343-B873-4242-906B-AB5F00EDA0FC/OriginalThumbnail/THUMBNAIL_shutterstock_1212230314.jpg)
 
 # The Study
 
-Earlier this year, a study was published by researchers in Singapore looking at the possible relationship between screen usage in young children (aged 2-3) and whether it can result in more sedentary behaviour later in life (kindergarten age). This study aimed to look at screentime behaviours in young children, since this time period is known to be an important developmental window for the development of habits, social skills, and motor skills. The study is summarized [here](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30424-9/fulltext). 
+Earlier this year, a study was published by researchers in Singapore looking at the possible relationship between screen usage in young children (aged 2-3) and whether it can result in more sedentary behaviour later in life (kindergarten age). This study aimed to look at screentime behaviours in young children, since this time period is known to be an important developmental window for the development of habits, social skills, and motor skills. The study is summarized [here](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30424-9/fulltext).
 
-First, this study collected parent reports of their child's time spent on screens, including television, computers, and handheld devices. 
+First, this study collected parent reports of their child's time spent on screens, including television, computers, and handheld devices.
 
 Then, the study collected data on how much each child engaged in light physical activity, heavier activity (called moderate-to-vigorous), and sedentary behaviour (which essentially represents time spent sitting, laying down, or being otherwise immobile). Each child's movement was measured using a device called an accelerometer. This device is able to track not only when, but also how much a child is moving their body, and converts this into data about their level of movement and activity.
 
@@ -18,7 +19,7 @@ Then, the study collected data on how much each child engaged in light physical 
 
 The following results stood out in this study:
 
-* Children aged 2–3 spent an average 2.5 hours on screens per day across all devices. 
+* Children aged 2–3 spent an average 2.5 hours on screens per day across all devices.
 * Television was the most commonly used device and accounted for the most screen time.
 * Children spending over 3 hours on screens was predictive of an average **41 minutes** more sedentary behaviour, **28 minutes** less light physical activity, and **13 minutes** less moderate-to-vigorous physical activity than children who spent less than 1 hour on screens.
 * The negative association was strongest between screen time (television and handheld devices) and moderate/vigorous physical activity.
@@ -27,7 +28,7 @@ The following results stood out in this study:
 # The Strengths
 
 * ***Good study design.*** This study used a longitudinal design—meaning that they studied the same children when they were young toddlers and when they were in kindergarten, in order to get more accurate results based on change within each child, and not comparing different children to one another. This is definitely an advantage of this study over others, which often limit the results they can get from a study by comparing children who may differ from each other in a number of ways OTHER than what the study is trying to look at.
-* ***Large sample size.*** This study looked at data from just over **500 children**, which I believe to be a pretty impressive sample size—especially when research is done over a long period of time, since many people are likely to drop out of study as their schedules, locations, and time commitments change (in this study, almost 1000 children were initially included). 
+* ***Large sample size.*** This study looked at data from just over **500 children**, which I believe to be a pretty impressive sample size—especially when research is done over a long period of time, since many people are likely to drop out of study as their schedules, locations, and time commitments change (in this study, almost 1000 children were initially included).
 
 # The Limitations
 

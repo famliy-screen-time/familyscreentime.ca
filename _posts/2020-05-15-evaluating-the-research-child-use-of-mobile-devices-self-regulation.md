@@ -3,6 +3,7 @@ layout: post
 title: Evaluating the Research - Child Use of Mobile Devices & Self-Regulation
 date: 2020-05-15T23:43:51.123Z
 author: sagetrampleasure
+category: blog
 ---
 We live in an age of information, where scientists and psychologists are constantly uncovering new tidbits of information about child development—which is undoubtedly extremely helpful to parents. But there are negative aspects to this constant stream of information, one of the main ones being that new and noteworthy findings are often taken as indisputable fact by readers who may be unaware of the possible limitations to the findings and how they came about.
 

@@ -3,6 +3,7 @@ layout: post
 title: Screens & Sleep
 date: 2020-02-10T22:08:16.485Z
 author: sagetrampleasure
+category: blog
 ---
 As part of the Canadian Paediatric Society's recommendations for healthy screen time behaviours in young children ([described here](https://familyscreentime.ca/2020/01/28/ten-questions-for-healthy-screen-time.html)), parents are encouraged to think about limiting their child's use of screens before bedtime, as well as access to screens in the bedroom. Why are these limits a good idea?
 
@@ -12,6 +13,6 @@ Research has shown that when screens are used right before going to sleep, less 
 * Sleep quality was reduced when a TV was present in the child's bedroom.
 * Those who watched TV in the evening reported more sleep problems than those who watched TV earlier in the day.
 
-This study, as well as other studies mentioned by the Canadian Pediatric Society, suggest a link between screen time before bed and lower sleep quality, with melatonin suppression being a likely reason for this effect. Other research adds to this and suggests that the volume of the screens play a larger part in sleep disturbance than the actual content being viewed. 
+This study, as well as other studies mentioned by the Canadian Pediatric Society, suggest a link between screen time before bed and lower sleep quality, with melatonin suppression being a likely reason for this effect. Other research adds to this and suggests that the volume of the screens play a larger part in sleep disturbance than the actual content being viewed.
 
 In any case, a main takeaway from this research is that a screen-free bedroom, as well as [at least an hour](https://www.cps.ca/en/documents/position/screen-time-and-young-children#ref45) of screen-free time before bed, are important in order for young children to get better rest. It is also important to keep in mind that these guidelines do not focus on cutting out screens entirely from childrens' lives, but instead centre around setting healthy limits to screen time that help to amplify its benefits while minimizing its potential drawbacks.

@@ -3,6 +3,7 @@ layout: post
 title: Putting Screen Time Guidelines into Action
 date: 2020-06-08T20:46:03.635Z
 author: sagetrampleasure
+category: blog
 ---
 We have all either seen or heard of the Canadian Paediatric Society's overarching recommendations for healthy screen usage as it pertains to young children. But even with these resources available, the question remains - how do we put these guidelines into practice?
 

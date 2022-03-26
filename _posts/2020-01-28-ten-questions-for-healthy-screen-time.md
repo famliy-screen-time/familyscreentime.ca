@@ -3,6 +3,7 @@ layout: post
 title: Ten Questions for Healthy Screen Time
 date: 2020-01-28T19:29:30.997Z
 author: zakarydraper
+category: blog
 ---
 The Canadian Paediatric Society has provided thoughtful recommendedations for screen time in families with young children. You can [read the full article](https://www.cps.ca/en/documents/position/screen-time-and-young-children), which includes a discussion of the research that informed these recommendations.
 

@@ -23,6 +23,14 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
+      - name: category
+        label: Category
+        widget: select
+        options:
+          - label: Blog
+            value: blog
+          - label: Results
+            value: results
       - name: author
         label: Author
         widget: select

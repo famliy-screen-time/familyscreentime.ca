@@ -3,12 +3,13 @@ layout: post
 title: What Makes "Good Quality" Screen Time?
 date: 2020-04-07T01:56:01.426Z
 author: sagetrampleasure
+category: blog
 ---
 One of the most popular phrases in the discourse surrounding screen time and young children, whether from mainstream media or from research-based recommendations, is "good quality" screens. You will often read that screen time is not such a bad thing, as long as your child's time spent on it is limited and the media they consume is of "good quality." But what exactly makes some types of screen time more "good quality" than others?
 
 # What is "good quality" screen time?
 
-The general consensus seems to be that "good quality" screen time is whatever has the ability to contribute in a positive way to your child's cognitive and physical development. Ideally, good quality screen time would not hinder or prevent your child from interacting from others and learning important skills, but instead would be a creative and fun way for your child to do both of these things. 
+The general consensus seems to be that "good quality" screen time is whatever has the ability to contribute in a positive way to your child's cognitive and physical development. Ideally, good quality screen time would not hinder or prevent your child from interacting from others and learning important skills, but instead would be a creative and fun way for your child to do both of these things.
 
 An article posted by [Child Mind Institute](https://childmind.org/article/value-screen-time-toddlers-preschoolers/), which is a nonprofit organization that provides research-based information on a variety of topics to children and families, compiled a list of tips for choosing media that can play a beneficial role in your child's development. It's important, they note, to realize right off the bat that "not all screen time is created equal," and that certain qualities can make a child's screen time contribute more to their early development. These qualities include **interactivity, child-directedness, active elements, and sociality.**
 
@@ -16,7 +17,7 @@ An article posted by [Child Mind Institute](https://childmind.org/article/value-
 
 This article claims that where screen time is concerned, the "most important form of interactivity is what happens with parents as they participate in toddler screen time." What brings up the quality of a certain form of screen time is when it involves direct interaction with the parents.
 
-The article also introduces the term "joint media engagement" as the gold standard of interactive screen time—this is when you interact with your child centered around a screen in the exact same way as you would with a book, or a painting, for example. 
+The article also introduces the term "joint media engagement" as the gold standard of interactive screen time—this is when you interact with your child centered around a screen in the exact same way as you would with a book, or a painting, for example.
 
 In these cases, the screen is a background activity and what takes centre stage is the interaction between you and your child, and is only supplemented by whatever media you have chosen.
 
@@ -30,7 +31,7 @@ The article suggests that an open-ended, responsive, choose your own adventure-s
 
 One of the main elements of good quality screen time, as emphasized by the article, is the favouring of "active screen time" over "passive screen time." To illustrate, active screen time would include media where your child is actively engaging, whether they are moving along physically with the app, or completing cognitively challenging tests. Passive screen time, however, would include watching any regular TV show, where your child sits back and absorbs information. When it comes to "good quality" screen time, active is the way to go.
 
-[According to an Australian study](https://www.ledevoir.com/documents/pdf/screen_time.pdf) on active and passive screen uses, there are actually two types of active screen use: physical and cognitive. As mentioned before, children can get physical benefits when they move around in response to media, such as following a video game's dance routine. Children can also get cognitive benefits when they answer skill-testing questions on an online quiz, or use problem-solving skills to advance in a game. 
+[According to an Australian study](https://www.ledevoir.com/documents/pdf/screen_time.pdf) on active and passive screen uses, there are actually two types of active screen use: physical and cognitive. As mentioned before, children can get physical benefits when they move around in response to media, such as following a video game's dance routine. Children can also get cognitive benefits when they answer skill-testing questions on an online quiz, or use problem-solving skills to advance in a game.
 
 This article also recommends multi-sensory experiences:
 
@@ -50,6 +51,6 @@ Finally, the article emphasizes the fact that it is not the end of the world if 
 
 # Conclusion
 
-Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance. 
+Keeping in mind that while even the best quality screen time cannot completely replace real-life activities and human interaction, striking a healthy balance of what's best for your child, your relationship with your child, and your personal schedule, is of ultimate importance.
 
 When screen time is involved in your child's day, using these guidelines can help you to choose the best possible option for your child.
